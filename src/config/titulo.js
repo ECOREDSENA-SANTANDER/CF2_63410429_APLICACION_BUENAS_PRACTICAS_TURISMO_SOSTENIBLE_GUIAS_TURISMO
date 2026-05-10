@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Herramientas para la gestión sostenible del servicio de guianza turística'
