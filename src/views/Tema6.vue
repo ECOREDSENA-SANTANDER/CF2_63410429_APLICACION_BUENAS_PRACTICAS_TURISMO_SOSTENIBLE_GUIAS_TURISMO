@@ -20,9 +20,9 @@
     
     .row.justify-content-center.align-items-center.fondo1.p-lg-5.p-4.mb-0(data-aos="fade-down")
       .col-lg-12
-        p.mb-5 Los principios del Código Ético Mundial para el Turismo se estructuran en los siguientes artículos: 
+        p.mb-4 Los principios del Código Ético Mundial para el Turismo se estructuran en los siguientes artículos: 
         .row.justify-content-center.mb-0
-          .col-lg-6
+          .col-lg-6.col-md-6
             ol.lista-ol--cuadro.lista-ol--separador
               li.d-flex
                 .lista-ol--cuadro__vineta
@@ -44,7 +44,7 @@
                 .lista-ol--cuadro__vineta
                   span 5
                 | El turismo como actividad beneficiosa para países y comunidades de destino.
-          .col-lg-6
+          .col-lg-6.col-md-6
             ol.lista-ol--cuadro.lista-ol--separador
               li.d-flex
                 .lista-ol--cuadro__vineta

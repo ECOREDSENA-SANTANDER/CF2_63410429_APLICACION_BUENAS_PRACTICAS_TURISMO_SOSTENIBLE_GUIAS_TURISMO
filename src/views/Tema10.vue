@@ -16,7 +16,7 @@
         .bg2.p-4
           p.mb-0 En Colombia, el Sistema Nacional de Áreas Protegidas de Colombia, articulado a través de la Parques Nacionales Naturales de Colombia, reconoce que el patrimonio natural no solo posibilita el disfrute de actividades recreativas, sino que también aporta al cumplimiento de los Objetivos de Desarrollo Sostenible (ODS), como la reducción de la pobreza. Esto se debe a que genera oportunidades económicas para las comunidades locales mediante servicios turísticos sostenibles. 
       
-    p.mb-5 Entre las principales actividades recreativas en estos entornos se encuentran: senderismo, #[em camping,] observación de fauna y flora, fotografía de naturaleza, actividades artísticas y, en algunos contextos, buceo. Estas experiencias, además de promover el bienestar físico y mental, fortalecen la conexión con el entorno natural. 
+    p.mb-4 Entre las principales actividades recreativas en estos entornos se encuentran: senderismo, #[em camping,] observación de fauna y flora, fotografía de naturaleza, actividades artísticas y, en algunos contextos, buceo. Estas experiencias, además de promover el bienestar físico y mental, fortalecen la conexión con el entorno natural. 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -61,10 +61,10 @@
         figcaption Fuente: adaptado de Paredes Leguizamón et al., (2015). 
     
     .row.justify-content-center.align-items-end.mb-0
-      .col-lg-5
+      .col-lg-5.mb-lg-0.mb-4
         .bg2.p-4
           p.mb-0.mb-lg-3.mt-lg-3.mx-lg-2 Se identifican cuatro categorías de servicios ecosistémicos: soporte, abastecimiento, regulación y culturales. Los de soporte garantizan el funcionamiento de los ecosistemas; los de abastecimiento proporcionan recursos como agua y alimentos; los de regulación mantienen el equilibrio ambiental; y los culturales aportan beneficios no materiales como recreación, conocimiento y valores culturales.
-      .col-lg-3
+      .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/tema10/4.svg')
       .col-lg-4
         p.mb-0 Estos servicios están interrelacionados y dependen del buen estado de los ecosistemas, por lo que su deterioro afecta tanto el ambiente como el bienestar humano. En este sentido, el turismo de naturaleza debe desarrollarse de manera responsable, reconociendo que la conservación de los ecosistemas también protege la cultura, la economía local y la calidad de vida de las comunidades. 

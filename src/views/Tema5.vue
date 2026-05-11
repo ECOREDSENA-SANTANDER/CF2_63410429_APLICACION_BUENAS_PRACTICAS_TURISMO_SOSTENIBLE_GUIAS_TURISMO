@@ -7,7 +7,7 @@
         span 5
       h1 Modelos y tipos de encuesta de satisfacción de servicio
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-lg-5.mb-4
       .col-lg-12
         .bloque-texto-g.color-primario.p-4.p-lg-5.p-md-4.mb-0(data-aos="fade-left")
           .bloque-texto-g__img(
@@ -16,11 +16,11 @@
           .bloque-texto-g__texto.p-lg-5.p-4.p-md-4
             p.mb-0 Las encuestas de satisfacción constituyen una herramienta clave para la mejora continua del servicio al cliente, ya que permiten recoger de manera sistemática la percepción de los usuarios al finalizar una actividad. En el contexto del turismo, donde el guía puede desempeñarse en diferentes tipologías (cultural, ecológica, de aventura, entre otras), resulta fundamental contar con un modelo estructurado que oriente la evaluación de la calidad del servicio prestado. 
 
-    p.mb-5 Más allá de recolectar opiniones, estas encuestas facilitan la toma de decisiones, la identificación de oportunidades de mejora y el fortalecimiento de la experiencia turística. 
+    p.mb-lg-5.mb-4 Más allá de recolectar opiniones, estas encuestas facilitan la toma de decisiones, la identificación de oportunidades de mejora y el fortalecimiento de la experiencia turística. 
 
-    .tit1(data-aos="fade-left")
-      img.img-t(:src="require('@/assets/curso/tema1/fle.svg')" alt='Imagen decorativa')
-      h4.mb-0.text-whit Fases para la construcción y aplicación de una encuesta de satisfacción 
+    .titb.mb-4(data-aos="fade-left")
+      img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
+      h3.mb-0.text-white Fases para la construcción y aplicación de una encuesta de satisfacción 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -159,9 +159,9 @@
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/tema5/2.png', alt='')
 
-    p.mb-5 #[b Tipos de encuestas de satisfacción más utilizados:] dependiendo del objetivo, se pueden emplear distintos modelos: 
+    p.mb-4 #[b Tipos de encuestas de satisfacción más utilizados:] dependiendo del objetivo, se pueden emplear distintos modelos: 
 
-    .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-right")
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
           img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema5/3.svg' alt='AvatarTop')

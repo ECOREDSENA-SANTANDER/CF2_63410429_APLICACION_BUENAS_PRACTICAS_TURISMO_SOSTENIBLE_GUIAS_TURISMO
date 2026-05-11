@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-7
         .row.justify-content-center.mb-4
-          .col-lg-3
+          .col-lg-3.d-none.d-lg-block
             img.mb-lg-0.mb-md-0.mb-4(src='@/assets/curso/tema4/2.svg')
           .col-lg-9
             p.mb-0 La operación del servicio en contextos turísticos comprende el conjunto de acciones que el guía de turismo realiza para garantizar una atención organizada, segura y de calidad en los diferentes momentos del servicio. Las acciones incluyen la recepción de los viajeros, su traslado, el acompañamiento durante la estadía y la coordinación de actividades en los distintos escenarios donde se desarrolla la experiencia turística, como terminales de transporte, establecimientos de alojamiento y destinos de visita. 
@@ -24,19 +24,19 @@
     #t_4_1.titulo-segundo.mb-5
       h2 4.1 Llegada y salida de hoteles 
 
-    p.mb-5 El guía de turismo desempeña un papel fundamental como facilitador durante los procesos de llegada y salida de los viajeros en los establecimientos de alojamiento; su función consiste en orientar, acompañar y coordinar las actividades relacionadas con el #[em check-in] y el #[em check-out], asegurando que estos se desarrollen de manera ágil, organizada y confortable para el huésped.
+    p.mb-4 El guía de turismo desempeña un papel fundamental como facilitador durante los procesos de llegada y salida de los viajeros en los establecimientos de alojamiento; su función consiste en orientar, acompañar y coordinar las actividades relacionadas con el #[em check-in] y el #[em check-out], asegurando que estos se desarrollen de manera ágil, organizada y confortable para el huésped.
     
-    .row.justify-content-center.mb-5
-      .col-lg-6
+    .row.justify-content-center.mb-lg-5.mb-4
+      .col-lg-6.col-md-6.mb-lg-0.mb-4
         .bg10.p-lg-5.p-4.h-100
           img.mb-4.img-t(src='@/assets/curso/tema4/3.svg')
           p.mb-0 El #[em check-in] corresponde al proceso de ingreso y recepción de los visitantes en el hotel. Generalmente, se realiza en la recepción a las 2:00 p. m. aproximadamente, aunque puede variar según las políticas del establecimiento. Durante este procedimiento, se registran los datos personales del huésped, se valida o formaliza la reserva, se entregan las llaves o tarjetas de acceso y se brinda información relevante sobre los servicios, instalaciones y normas del lugar.  
-      .col-lg-6
+      .col-lg-6.col-md-6.mb-lg-0.mb-4
         .bg11.p-lg-5.p-4.h-100
           img.mb-4.img-t(src='@/assets/curso/tema4/4.svg')
           p.mb-0 Por su parte, el #[em check-out] hace referencia al proceso de salida del huésped, el cual suele efectuarse hacia las 12:00 m, aproximadamente; en esta etapa, se entregan las llaves o tarjetas de acceso y se realiza el pago de consumos adicionales, si los hay. El incumplimiento del horario establecido puede generar cargos adicionales, conforme a las políticas internas del establecimiento. 
 
-    p.mb-5 El guía de turismo debe anticiparse a las necesidades del viajero, brindando orientación clara antes, durante y después de la estadía, con el propósito de garantizar una experiencia satisfactoria y evitar inconvenientes durante estos procesos. 
+    p.mb-4 El guía de turismo debe anticiparse a las necesidades del viajero, brindando orientación clara antes, durante y después de la estadía, con el propósito de garantizar una experiencia satisfactoria y evitar inconvenientes durante estos procesos. 
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-10
@@ -243,7 +243,7 @@
         .col-lg-7(data-aos="fade-left")
           .p-4
             .row.justify-content-center.align-items-center.mb-0
-              .col-lg-3
+              .col-lg-3.d-none.d-lg-block
                 img(src='@/assets/curso/tema4/7.svg')
               .col-lg-9
                 p.mb-0 Orientar al visitante en la llegada y salida del restaurante es una tarea que exige del guía de turismo habilidades de comunicación, organización y servicio. Más que acompañar físicamente al grupo, el guía debe generar confianza, brindar información útil y facilitar que el servicio se preste en condiciones de orden, comodidad y buen trato. Así, su labor fortalece la calidad de la experiencia turística y responde a su función profesional de orientar, instruir y asistir al visitante durante el desarrollo del recorrido (MinCIT, 2022). 
@@ -255,7 +255,7 @@
     #t_4_3.titulo-segundo.mb-5
       h2 4.3 Llegada y salida de embarcaciones (marítimas, fluviales). 
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-lg-5.mb-4(data-aos="fade-left")
       .col-lg-5.d-none.d-lg-block
         .bg4.p-4
           img.img-t(src='@/assets/curso/tema4/8.png', alt='')
@@ -264,7 +264,7 @@
         .bg2.p-4
           p.mb-0.mb-lg-1.mt-lg-2.mx-lg-2 Desde el inicio, el guía debe asegurar condiciones básicas del servicio, brindar información clara y facilitar la movilidad del grupo, especialmente en espacios como muelles o embarcaderos, donde existen mayores riesgos. En este contexto, entidades como la Dirección General Marítima enfatizan la importancia de utilizar transporte autorizado, verificar condiciones de seguridad y cumplir las normas de navegación.
 
-    p.mb-5 Durante todo el proceso, el guía actúa como mediador entre el visitante y los operadores del servicio, manteniendo una actitud preventiva, atenta y profesional. Esto permite que la experiencia sea organizada, segura y satisfactoria, en coherencia con los lineamientos del Ministerio de Comercio, Industria y Turismo. 
+    p.mb-4 Durante todo el proceso, el guía actúa como mediador entre el visitante y los operadores del servicio, manteniendo una actitud preventiva, atenta y profesional. Esto permite que la experiencia sea organizada, segura y satisfactoria, en coherencia con los lineamientos del Ministerio de Comercio, Industria y Turismo. 
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-12

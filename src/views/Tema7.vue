@@ -7,12 +7,12 @@
         span 7
       h1 Carta sobre turismo cultural ICOMOS
     
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-lg-5.mb-4(data-aos="fade-left")
       .col-lg-7
         p.mb-4 La Carta Internacional sobre Turismo Cultural fue adoptada por el Consejo Internacional de Monumentos y Sitios (ICOMOS) durante su XII Asamblea General, realizada en México en octubre de 1999. Este documento establece que el patrimonio natural y cultural es un bien común de la humanidad, por lo cual, todas las personas tienen el derecho de conocerlo y disfrutarlo, pero también la responsabilidad de protegerlo y conservarlo para las generaciones futuras (ICOMOS, 1999). 
         p.mb-4 La carta propone una visión amplia del patrimonio, entendiendo que no se limita a monumentos o sitios históricos. Incluye también: 
         .row.justify-content-center.mb-0
-          .col-lg-4
+          .col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/tema7/1.svg')
           .col-lg-8
             ul.lista-ul.mb-0

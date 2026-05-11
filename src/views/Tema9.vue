@@ -7,7 +7,7 @@
         span 9
       h1 Fichas necesarias en turismo
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-lg-5.mb-4(data-aos="fade-left")
       .col-lg-7
         p.mb-4 Ficha para inventario fotográfico: en el proceso de elaboración del inventario turístico de los recursos y atractivos de una región, es fundamental mantener un registro organizado de la información visual; por esta razón, se recomienda incluir al menos dos imágenes originales en alta resolución por cada recurso o atractivo, asegurando el registro adecuado de la fuente.
         .bg2.p-4
@@ -16,10 +16,10 @@
         .bg1.p-4
           img.img-t(src='@/assets/curso/tema9/1.png', alt='')
     
-    p.mb-5 El formato sugerido se basa en la metodología para la elaboración del inventario de atractivos turísticos del Ministerio de Comercio, Industria y Turismo (2020). No obstante, existen otros modelos de ficha para inventario fotográfico que también pueden ser utilizados como referencia, como el que se presenta a continuación: 
+    p.mb-4 El formato sugerido se basa en la metodología para la elaboración del inventario de atractivos turísticos del Ministerio de Comercio, Industria y Turismo (2020). No obstante, existen otros modelos de ficha para inventario fotográfico que también pueden ser utilizados como referencia, como el que se presenta a continuación: 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-4
+      .col-lg-4.mb-lg-0.mb-5
         .titulo-sexto
           h5 Figura 3.
           | Ficha de fotografía
@@ -69,24 +69,31 @@
       img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
       h3.mb-0 Ficha de registro en información de avistamiento de fauna 
 
-  
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-4.d-none.d-lg-block
+        img(src='@/assets/curso/tema9/17.png', alt='')
+      .col-lg-8
+        .row.justify-content-center.align-items-center.mb-0
+          .col-lg-9
+            p.mb-lg-0.mb-4 El avistamiento de aves, de acuerdo con el manual de operación turística del departamento del Guaviare, se define como el disfrute del entorno natural mediante la observación e identificación de aves en su hábitat. Esta actividad no solo facilita el contacto directo con la naturaleza, sino que también promueve el respeto por los ecosistemas y el reconocimiento de la biodiversidad de cada territorio.
+          .col-lg-3.d-none.d-lg-block
+            img(src='@/assets/curso/tema9/18.svg', alt='')
+        p.mb-4 En concordancia, la guía de buenas prácticas para el aviturismo en Colombia establece que esta actividad comprende un conjunto de acciones orientadas a facilitar la observación de aves con fines recreativos, educativos o científicos. Por tanto, el aviturismo representa tanto una experiencia significativa para el visitante como una oportunidad de desarrollo económico para las comunidades locales.  
+        .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
+          .col-lg-8
+            .bg2.p-lg-2.p-4
+              p.mb-0.mx-lg-2.mb-lg-1.mt-lg-1 Desde el enfoque de la interpretación ambiental, esta actividad debe asumirse como un proceso de comunicación que permite comprender las relaciones entre el patrimonio natural y cultural. En este sentido, el avistamiento de aves trasciende la simple observación, convirtiéndose en una experiencia educativa en la que interactúan el guía, el turista y la comunidad.  
+          .col-lg-4.d-none.d-lg-block
+            .bg1.p-4
+              img.img--a.img-t.mb-lg-2.mt-lg-2(src='@/assets/curso/tema9/19.png', alt='')
+    
+    p.mb-4 El guía de turismo desempeña un rol fundamental como mediador del conocimiento, orientando al visitante y facilitando una conexión más profunda con el entorno. Esta labor implica adaptar la interpretación a las características del territorio, fortaleciendo la identidad del destino y promoviendo la sensibilización ambiental. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-lg-1.col-md-2.col-5
+        img.mb-lg-0.mb-md-0.mb-4(src='@/assets/curso/tema9/20.svg')
+      .col-lg-11.col-md-10
+        p.mb-0 Previo al desarrollo de la actividad, se recomienda realizar una charla de inducción donde se informe sobre aspectos clave como duración del recorrido, condiciones del terreno, especies posibles de observar, medidas de seguridad y equipamiento necesario. Esto contribuye a una experiencia organizada, segura y satisfactoria. 
 
     .tit.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
@@ -141,7 +148,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-7
-        img.img-t.mb-4(src='@/assets/curso/tema9/5.svg')
+        img.img-t.mb-4.d-none.d-lg-block(src='@/assets/curso/tema9/5.svg')
         p.mb-0 Toda esta información se fundamenta en el Manual de operación turística para el avistamiento de aves en el Guaviare, el cual constituye un referente técnico clave para la planificación, organización y ejecución de actividades de turismo de naturaleza en este territorio. Este documento proporciona lineamientos claros sobre el manejo de visitantes, la conservación de los ecosistemas, la minimización de impactos ambientales y el comportamiento responsable durante las experiencias de avistamiento de aves. Asimismo, orienta a los actores del sector turístico en la implementación de buenas prácticas relacionadas con la seguridad, la interpretación ambiental y el respeto por la biodiversidad, permitiendo una gestión adecuada de situaciones que puedan presentarse durante la operación turística. En este sentido, el manual no solo respalda la información presentada, sino que también garantiza que las acciones propuestas se encuentren alineadas con criterios de sostenibilidad, calidad del servicio y normatividad vigente en turismo de naturaleza. 
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
@@ -152,7 +159,7 @@
       h3.mb-0.text-white Orientación para el uso de las fichas en el proceso de aprendizaje: 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-2
+      .col-lg-2.d-none.d-lg-block
         img(src='@/assets/curso/tema9/6.png', alt='')
       .col-lg-10
         p.mb-4 Las siguientes fichas se presentan como ejemplos orientadores para el aprendiz, con el propósito de facilitar el desarrollo de procesos de seguimiento, evaluación e identificación de riesgos en actividades de aviturismo. Estas herramientas no deben entenderse como formatos rígidos, sino como guías prácticas que pueden ser adaptadas según las características del territorio, el tipo de actividad turística y las condiciones específicas del entorno. 
@@ -163,7 +170,7 @@
       img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
       h3.mb-0 Ficha de seguimiento y mejora
 
-    p.mb-5 Esta ficha tiene como finalidad evaluar de manera periódica el estado de diferentes componentes de la actividad turística, permitiendo identificar fortalezas, aspectos por mejorar y establecer compromisos concretos de acción. A través de su diligenciamiento, el aprendiz desarrolla la capacidad de analizar variables clave como la capacidad de carga, el estado de los recursos, las prácticas de sostenibilidad y la calidad del servicio, promoviendo una mejora continua en la operación turística. 
+    p.mb-4 Esta ficha tiene como finalidad evaluar de manera periódica el estado de diferentes componentes de la actividad turística, permitiendo identificar fortalezas, aspectos por mejorar y establecer compromisos concretos de acción. A través de su diligenciamiento, el aprendiz desarrolla la capacidad de analizar variables clave como la capacidad de carga, el estado de los recursos, las prácticas de sostenibilidad y la calidad del servicio, promoviendo una mejora continua en la operación turística. 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -223,9 +230,9 @@
       h3.mb-0.text-white Ficha de identificación de riesgos 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6
+      .col-lg-6.mb-lg-0.mb-4
         .row.justify-content-center.align-items-center.mb-0
-          .col-lg-4
+          .col-lg-4.d-none.d-lg-block
             img.img-t(src='@/assets/curso/tema9/7.svg', alt='')
           .col-lg-8
             p.mb-0 Por su parte, esta ficha está orientada a la identificación anticipada de riesgos, entendidos como aquellas situaciones, condiciones o comportamientos que pueden afectar la seguridad, la experiencia del visitante o el equilibrio del entorno. Su uso permite al aprendiz reconocer posibles amenazas, analizar sus causas y proponer medidas de manejo adecuadas, fortaleciendo así una cultura de prevención y gestión responsable del riesgo en actividades de turismo de naturaleza. 

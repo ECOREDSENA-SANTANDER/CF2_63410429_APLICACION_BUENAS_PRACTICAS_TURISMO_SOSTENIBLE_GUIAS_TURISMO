@@ -7,11 +7,14 @@
         span 8
       h1 Patrimonio cultural local
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-lg-4.mb-0(data-aos="fade-left")
       .col-lg-7
         p.mb-4 De acuerdo con la Ley 397 de 1997 (Ley General de Cultura de Colombia), en su artículo 4, el patrimonio cultural de la Nación se define como el conjunto de: 
-        .bg13.p-4
-          p.mb-0.mb-lg-2.mt-lg-3.mx-lg-3 Bienes y valores culturales que son expresión de la nacionalidad colombiana, tales como las tradiciones, costumbres y hábitos, así como los bienes materiales e inmateriales, muebles e inmuebles, que poseen un especial interés histórico, artístico, estético, arquitectónico, urbano, arqueológico, ambiental, ecológico, lingüístico, sonoro, musical, audiovisual, fílmico, científico, testimonial, documental, literario, bibliográfico, museológico y antropológico, junto con las manifestaciones, productos y representaciones de la cultura popular. 
+        .bloque-texto-f.color-acento-contenido.mb-0.p-5
+          .bloque-texto-f__comillas
+            i.fas.fa-quote-left
+            i.fas.fa-quote-right
+          p.mb-5.bloque-texto-f__texto.mx-lg-5.mx-2.mt-lg-3 Bienes y valores culturales que son expresión de la nacionalidad colombiana, tales como las tradiciones, costumbres y hábitos, así como los bienes materiales e inmateriales, muebles e inmuebles, que poseen un especial interés histórico, artístico, estético, arquitectónico, urbano, arqueológico, ambiental, ecológico, lingüístico, sonoro, musical, audiovisual, fílmico, científico, testimonial, documental, literario, bibliográfico, museológico y antropológico, junto con las manifestaciones, productos y representaciones de la cultura popular. 
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
           img.img-t(src='@/assets/curso/tema8/1.png', alt='')
@@ -23,7 +26,7 @@
       h3.mb-0 Patrimonio cultural en el ámbito local 
 
     .row.justify-content-center.align-items-end.mb-5
-      .col-lg-4
+      .col-lg-4.mb-lg-0.mb-4
         p.mb-4 Cada municipio de Colombia posee una riqueza cultural propia, construida a partir de sus tradiciones, prácticas sociales, saberes ancestrales y características territoriales. Este patrimonio local: 
         ul.lista-ul.mb-0.m11
           li.d-flex.mb-2
@@ -35,7 +38,7 @@
           li.d-flex.mb-0
             i.fas.fa-bolt
             p.mb-0.m1 Contribuye al desarrollo cultural, social y económico.
-      .col-lg-3
+      .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/tema8/2.png')
       .col-lg-5
         p.mb-4 Con el propósito de proteger y promover esta riqueza, el país ha implementado estrategias como la Red Turística de Pueblos Patrimonio de Colombia, liderada por el Ministerio de Comercio, Industria y Turismo. Esta iniciativa busca: 
@@ -50,11 +53,11 @@
             i.fas.fa-bolt
             p.mb-0.m1 Impulsar el turismo cultural como motor de desarrollo local.  
 
-    p.mb-5 #[b Municipios reconocidos como Pueblos Patrimonio,] que hacen parte de esta red son: 
+    p.mb-4 #[b Municipios reconocidos como Pueblos Patrimonio,] que hacen parte de esta red son: 
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
-        .bg14.p-4
+    .row.justify-content-center.mb-lg-5.mb-4
+      .col-lg-4.col-md-6.mb-lg-0.mb-4
+        .bg14.p-4.h-100
           ul.lista-ul.mb-0
             li.d-flex.mb-2
               i.fas.fa-bolt
@@ -74,8 +77,8 @@
             li.d-flex.mb-0
               i.fas.fa-bolt
               p.mb-0 Jericó, Antioquia  
-      .col-lg-4
-        .bg15.p-4
+      .col-lg-4.col-md-6.mb-lg-0.mb-4 
+        .bg15.p-4.h-100
           ul.lista-ul.mb-0
             li.d-flex.mb-2
               i.fas.fa-bolt
@@ -95,8 +98,8 @@
             li.d-flex.mb-0
               i.fas.fa-bolt
               p.mb-0 Guaduas (Villa de Guaduas), Cundinamarca 
-      .col-lg-4
-        .bg10.p-4
+      .col-lg-4.col-md-6.mb-lg-0.mb-4
+        .bg10.p-4.h-100
           ul.lista-ul.mb-0
             li.d-flex.mb-2
               i.fas.fa-bolt
@@ -124,7 +127,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-7
         .row.justify-content-center.mb-4
-          .col-lg-5
+          .col-lg-5.d-none.d-lg-block
             img.img-t(src='@/assets/curso/tema8/4.png')
           .col-lg-7.ps-lg-0
             ul.lista-ul.mb-0
@@ -149,13 +152,13 @@
         .bg1.p-4
           img(src='@/assets/curso/tema8/3.png', alt='')
 
-    p.mb-5 A continuación, se presentan algunos sitios reconocidos como patrimonio cultural, a través de los cuales es posible analizar la evolución de su reconocimiento en Colombia. Se recomienda revisar esta información para identificar los momentos más relevantes en su proceso de consolidación: 
+    p.mb-4 A continuación, se presentan algunos sitios reconocidos como patrimonio cultural, a través de los cuales es posible analizar la evolución de su reconocimiento en Colombia. Se recomienda revisar esta información para identificar los momentos más relevantes en su proceso de consolidación: 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         SlyderB.slib(:datos="datosSlyder").bg18.p-lg-5.p-4
 
-    p.mb-5 Se invita a explorar este pódcast, en el que se aborda la importancia de valorar la cultura local en el turismo. A través de una narración clara, se comprenderá cómo las tradiciones y las comunidades dan sentido a cada destino.
+    p.mb-4 Se invita a explorar este pódcast, en el que se aborda la importancia de valorar la cultura local en el turismo. A través de una narración clara, se comprenderá cómo las tradiciones y las comunidades dan sentido a cada destino.
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12
@@ -178,14 +181,14 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .row.justify-content-center.align-items-end.mb-4
-          .col-lg-3
+          .col-lg-3.d-none.d-lg-block
             img(src='@/assets/curso/tema8/6.png', alt='')
           .col-lg-9
             p.mb-0 La interpretación del patrimonio natural y cultural permite descubrir y comunicar los significados que otorgan valor a un lugar, una manifestación o un objeto; en este sentido, constituye una disciplina orientada a facilitar la comprensión del patrimonio por parte de los visitantes mediante experiencias significativas. Para ello, se apoya en estrategias comunicativas que favorecen la participación activa, promoviendo no solo la observación, sino también la reflexión, el reconocimiento y la valoración del entorno (Lazo Cruz & Arróspide Tehuay, 2011). 
         p.mb-4 Desde la perspectiva de la UNESCO, el patrimonio se clasifica en tres grandes categorías: cultural material, cultural inmaterial y natural; el primero comprende bienes tangibles como monumentos, sitios arqueológicos, obras artísticas y documentos históricos; el segundo incluye saberes, tradiciones, expresiones orales y prácticas culturales vivas; mientras que el patrimonio natural abarca paisajes, formaciones físicas, biológicas y áreas protegidas de especial valor para la humanidad. 
         .bg6.p-4
           p.mb-0 En este marco, el intérprete (especialmente el guía de turismo) requiere desarrollar conocimientos, habilidades comunicativas y estrategias pedagógicas que le permitan orientar al visitante de manera pertinente; su labor trasciende la transmisión de información, ya que busca generar conexiones entre el patrimonio y la experiencia personal de quien lo visita, favoreciendo procesos de aprendizaje, sensibilización y respeto por los entornos naturales y culturales. 
-      .col-lg-4 
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/tema8/7.png', alt='')
     
     p.mb-4 Pero ¿cómo se transmite un mensaje interpretativo sobre el patrimonio natural y cultural? De acuerdo con la Guía de Interpretación del Patrimonio Natural y Cultural (Lazo Cruz & Arróspide Tehuay, 2011), se propone: 
@@ -280,11 +283,11 @@
         figcaption Fuente: Guía de Interpretación del Patrimonio Natural y Cultural (Lazo Cruz & Arróspide Tehuay, 2011). 
     
     .row.justify-content-center.align-items-end.mb-0
-      .col-lg-4
+      .col-lg-4.mb-lg-0.mb-4
         .bg6.p-4
           img.img-t.mb-4(src='@/assets/curso/tema8/10.svg', alt='')
           p.mb-0 Se recomienda que, en el recorrido interpretativo autoguiado, se utilicen recursos como paneles explicativos, folletos, exhibiciones y medios de audio, con el fin de facilitar la comprensión del patrimonio de manera autónoma por parte del visitante. 
-      .col-lg-5
+      .col-lg-5.d-none.d-lg-block
         img(src='@/assets/curso/tema8/11.png', alt='')
       .col-lg-3
         p.mb-0 En el caso del recorrido interpretativo guiado, es fundamental realizar una adecuada planificación y preparación del proceso, considerando las etapas antes de iniciar, durante el desarrollo del recorrido, al finalizar la experiencia y en la evaluación posterior, con el propósito de garantizar una experiencia organizada, significativa y coherente. 
@@ -294,7 +297,7 @@
     #t_8_3.titulo-segundo.mb-5
       h2 8.3 Registro de estado de conservación de los atractivos turísticos 
 
-    p.mb-5 De acuerdo con la metodología para la elaboración del inventario de atractivos turísticos del Ministerio de Comercio, Industria y Turismo (2020), en Colombia se dispone de un conjunto de formularios que permiten registrar y valorar el estado de conservación de los atractivos turísticos. 
+    p.mb-4 De acuerdo con la metodología para la elaboración del inventario de atractivos turísticos del Ministerio de Comercio, Industria y Turismo (2020), en Colombia se dispone de un conjunto de formularios que permiten registrar y valorar el estado de conservación de los atractivos turísticos. 
 
     p.mb-4 Estos se agrupan en dos grandes categorías: patrimonio cultural y sitios naturales, cada uno con sus respectivos instrumentos de registro: 
 
@@ -328,7 +331,7 @@
                 td #[b Grupo 2]
                 td Sitios naturales
                 td Formulario 5
-      .col-lg-6
+      .col-lg-6.d-none.d-lg-block
         .bg1.p-4
           img(src='@/assets/curso/tema8/12.png', alt='')
 
@@ -337,18 +340,18 @@
       h3.mb-0 Criterios de valoración del patrimonio cultural 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/tema8/13.png')
       .col-lg-9
         .row.justify-content-center.mb-4
-          .col-lg-2
+          .col-lg-2.d-none.d-lg-block
             img.img-t.img-a(src='@/assets/curso/tema8/14.svg')
           .col-lg-10.ps-lg-0
             p.mb-0 La valoración del patrimonio cultural se enfoca en la calidad del bien o manifestación, considerando características específicas según su naturaleza. 
         p.mb-0 En el caso del patrimonio cultural material, se analiza el estado de conservación, entendido como la integridad física y estética del bien, ya sea en su condición original o después de procesos de restauración. También se evalúa la constitución del bien, es decir, los materiales y técnicas de elaboración, los cuales pueden tener valor por su antigüedad, por estar en desuso o por representar avances tecnológicos. Finalmente, se considera la representatividad, relacionada con la importancia histórica, social o cultural del bien dentro de un contexto determinado. 
 
     .row.justify-content-center.align-items-start.mb-5
-      .col-lg-4
+      .col-lg-4.mb-lg-0.mb-4
         .titulo-sexto
           h5 Tabla 12. 
           | Puntaje para la valoración patrimonio material – categoría calidad
@@ -372,7 +375,7 @@
               tr
                 td Total
                 td 70
-      .col-lg-4
+      .col-lg-4.mb-lg-0.mb-4
         .bg17.p-lg-5.p-4.cen
           p.mb-0 Para el #[b patrimonio cultural inmaterial], la valoración se basa en su carácter social y simbólico. Se reconoce su naturaleza colectiva, al ser compartido por una comunidad; su condición tradicional, al transmitirse entre generaciones; su carácter anónimo, al no tener autor identificado; su espontaneidad, al surgir de manera natural; y su carácter popular, al reflejar la vida cotidiana de las comunidades. 
       .col-lg-4
@@ -411,11 +414,11 @@
       h3.mb-0 Valoración de festividades, eventos y grupos de especial interés 
 
     .row.justify-content-center.align-items-end.mb-5
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/tema8/15.png')
       .col-lg-4
         p.mb-4 Las festividades y eventos se evalúan considerando tres aspectos fundamentales: la organización del evento (programación, logística y cumplimiento), los beneficios socioculturales (arraigo, integración comunitaria y promoción del folclore) y los beneficios económicos locales (impacto en ingresos y calidad de vida). 
-        p.mb-0 Por su parte, los grupos de especial interés se valoran principalmente a partir del respeto por las costumbres, entendido como la conservación auténtica de su legado cultural. 
+        p.mb-lg-0.mb-4 Por su parte, los grupos de especial interés se valoran principalmente a partir del respeto por las costumbres, entendido como la conservación auténtica de su legado cultural. 
       .col-lg-4
         .titulo-sexto
           h5 Tabla 14. 
@@ -479,12 +482,12 @@
       img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
       h3.mb-0 Valoración del significado del atractivo turístico  
 
-    p.mb-5 Además de la calidad, se evalúa el significado del atractivo turístico, el cual hace referencia al nivel de reconocimiento que tiene en los mercados turísticos. Este análisis es fundamental para determinar su potencial dentro de la planificación turística.  
+    p.mb-4 Además de la calidad, se evalúa el significado del atractivo turístico, el cual hace referencia al nivel de reconocimiento que tiene en los mercados turísticos. Este análisis es fundamental para determinar su potencial dentro de la planificación turística.  
 
     p.mb-4 El significado se establece según el alcance del reconocimiento del atractivo, como se presenta a continuación: 
     
     .row.justify-content-center.align-items-end.mb-5
-      .col-lg-8
+      .col-lg-8.mb-lg-0.mb-4
         .titulo-sexto
           h5 Tabla 16. 
           | Significado del atractivo turístico
@@ -508,7 +511,7 @@
                 td Internacional
                 td En dos o más países.
       .col-lg-4
-        img.img-t.mb-5(src='@/assets/curso/tema8/17.svg', alt='')
+        img.img-t.mb-5.d-none.d-lg-block(src='@/assets/curso/tema8/17.svg', alt='')
         p.mb-0 Este reconocimiento no se basa en percepciones subjetivas, sino en evidencia proveniente de fuentes como guías turísticas, paquetes de agencias de viaje, revistas especializadas, medios de comunicación y material cartográfico. 
         
     .tit.mb-5(data-aos="fade-left")
@@ -517,7 +520,7 @@
 
     p.mb-4 La valoración del estado de conservación y del significado de los atractivos turísticos permite: 
 
-    .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-right")
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
           img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema8/18.svg' alt='AvatarTop')

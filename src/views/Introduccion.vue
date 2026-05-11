@@ -18,7 +18,7 @@
       .col-lg-7
         p.mb-3 En este proceso formativo se abordan contenidos relacionados con los indicadores de sostenibilidad en turismo propuestos por la Organización Mundial del Turismo (OMT), la gestión empresarial, la cultura de calidad en el servicio y la preparación del guía según las tipologías de producto turístico ofertadas en el destino; asimismo, se desarrollan aspectos clave para la organización del trabajo en distintos escenarios de operación turística, tales como terminales de transporte, establecimientos de alojamiento, restaurantes y embarcaciones, junto con herramientas para la evaluación de la satisfacción de usuarios y comunidades.
         .row.justify-content-center.align-items-center.mb-0
-          .col-lg-3
+          .col-lg-3.d-none.d-lg-block
             img.mb-lg-0.mb-md-0.mb-4(src='@/assets/curso/intro/3.svg')
           .col-lg-9
             p.mb-0 De igual manera, se promueve la comprensión de la sostenibilidad en sus dimensiones sociocultural y ambiental, resaltando la importancia del código de ética del turismo, la protección del patrimonio cultural y natural, y la valoración de la identidad local; es así como, se fortalecen las capacidades para aplicar herramientas de gestión sostenible que contribuyen a la mejora del servicio y al desarrollo responsable del sector turístico, en coherencia con las normas técnicas de calidad vigentes y las dinámicas del contexto.   

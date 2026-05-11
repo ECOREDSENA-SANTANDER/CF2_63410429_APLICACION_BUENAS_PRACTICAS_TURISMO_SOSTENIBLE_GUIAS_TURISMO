@@ -7,19 +7,19 @@
         span 3
       h1 Operación del servicio en contextos turísticos
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-lg-5.mb-4(data-aos="fade-left")
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
           img.img-t(src='@/assets/curso/tema3/1.png', alt='')
       .col-lg-7
         p.mb-4 La operación del servicio de guianza turística comprende el conjunto de acciones que el guía realiza para garantizar una atención organizada, segura y de calidad en los diferentes momentos del servicio. Estas acciones incluyen la recepción de los viajeros, su traslado, acompañamiento durante la experiencia turística y la coordinación logística con los distintos actores involucrados.  
         .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
-          .col-lg-10.col-md-10
+          .col-lg-10.col-md-10.mb-lg-0.mb-md-0.mb-4
             p.mb-0 Uno de los momentos más relevantes dentro de esta operación es el proceso de recepción y traslado de turistas en terminales de transporte, el cual constituye, en la mayoría de los casos, el primer contacto entre el guía y los usuarios. Este proceso es determinante para generar confianza, orientar a los viajeros y asegurar el adecuado inicio de la experiencia turística. 
           .col-lg-2.col-md-2.col-5
-            img.mb-lg-0.mb-md-0.mb-4(src='@/assets/curso/tema3/2.svg')
+            img(src='@/assets/curso/tema3/2.svg')
 
-    p.mb-5 Se invita a explorar el siguiente video, en el cual se presenta de manera clara y práctica la operación del servicio en contextos turísticos. Este recurso permite comprender el rol del guía de turismo en los procesos de recepción, traslado y acompañamiento de los viajeros, así como las acciones clave que garantizan una experiencia organizada, segura y de calidad. 
+    p.mb-4 Se invita a explorar el siguiente video, en el cual se presenta de manera clara y práctica la operación del servicio en contextos turísticos. Este recurso permite comprender el rol del guía de turismo en los procesos de recepción, traslado y acompañamiento de los viajeros, así como las acciones clave que garantizan una experiencia organizada, segura y de calidad. 
 
     .row.justify-content-center.align-items-center.mb-5         
       .col-lg-12
@@ -37,7 +37,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-7
-        p.mb-3 Una de las funciones esenciales del guía de turismo es realizar el transfer o proceso de recepción y traslado de los viajeros en los diferentes terminales de transporte; esta actividad incluye su acompañamiento hasta el lugar de alojamiento y la verificación de aspectos logísticos fundamentales. 
+        p.mb-lg-3.mb-4 Una de las funciones esenciales del guía de turismo es realizar el transfer o proceso de recepción y traslado de los viajeros en los diferentes terminales de transporte; esta actividad incluye su acompañamiento hasta el lugar de alojamiento y la verificación de aspectos logísticos fundamentales. 
         .bg2.p-4.mb-3
           .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
             .col-lg-2.col-md-2.col-5
@@ -49,7 +49,7 @@
         .bg1.p-4
           img.img-t(src='@/assets/curso/tema3/3.png', alt='')
     
-    p.mb-5 Para una adecuada operación del servicio, se proponen las siguientes orientaciones organizadas en tres momentos: 
+    p.mb-4 Para una adecuada operación del servicio, se proponen las siguientes orientaciones organizadas en tres momentos: 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12

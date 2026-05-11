@@ -19,9 +19,9 @@
             p.mb-0 En Colombia, el ejercicio de la guianza turística está orientado por las Normas Técnicas Sectoriales para Guías de Turismo, las cuales establecen criterios que sirven de base para el buen desarrollo de esta labor. Entre las normas fundamentales se encuentran la NTS-GT 001, relacionada con la prestación del servicio de guianza según lo requerido por el usuario; la NTS-GT 002, enfocada en el control y seguimiento de los programas de acuerdo con los objetivos propuestos; la NTS-GT 003, que orienta la preparación de las actividades contratadas con el usuario; y la NTS-GT 004, que aborda los procesos básicos necesarios para prestar el servicio de manera adecuada. 
 
     .row.justify-content-center.align-items-end.mb-5
-      .col-lg-4
+      .col-lg-4.mb-lg-0.mb-4
         p.mb-0 Además de estas normas generales, existen otras que responden a las diferentes tipologías del turismo y que permiten al guía actuar de manera más especializada según la actividad que va a desarrollar. Entre ellas se encuentran las relacionadas con recorridos ecoturísticos, actividades de buceo con tanque y a pulmón, recorridos guiados en museos, alta montaña, atención a pasajeros de cruceros, cabalgatas y la prestación del servicio de guianza con traducción a otras lenguas. Cada una de estas normas establece criterios específicos que el guía debe conocer y aplicar de acuerdo con el contexto del servicio. 
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/tema2/2.png')
       .col-lg-4
         p.mb-0 De igual manera, todos los guías de turismo deben conocer y aplicar la Norma Técnica Colombiana NTC 6507 de 2021, la cual establece los requisitos para la prestación del servicio de guianza turística. Esta norma orienta aspectos importantes como la planeación, la ejecución y el control del servicio, así como la forma adecuada de finalizar una actividad. También resalta las competencias que debe tener el guía y las técnicas que favorecen una atención organizada, segura y de calidad para los usuarios. 
@@ -30,12 +30,12 @@
       .col-lg-4.d-none.d-lg-block
         img.img-t(src='@/assets/curso/tema2/3.png', alt='')
       .col-lg-8
-        .bg8.p-5.mb-4
+        .bg8.p-lg-5.p-4.mb-4
           p.mb-0 Para desempeñar con éxito la labor del guía dentro de la cadena de servicio turístico, es fundamental organizar adecuadamente sus funciones y responsabilidades. En este sentido, el turismo debe entenderse como una actividad articulada entre diversos actores del territorio. Como señalan Panosso y Lohmann (2012, como se citó en Hoyos Pardo, 2021), “el turismo se debe entender desde un sistema de comunicaciones entre las agencias de viajes, los guías de turismo, las cadenas hoteleras, los establecimientos gastronómicos, los artesanos, los planes de desarrollo departamental y las redes o medios de comunicación para atraer a los diferentes tipos de turistas hacia el territorio deseado” (p. 11). 
         .row.justify-content-center.align-items-center.mb-2(data-aos="fade-right")
-          .col-lg-9.col-md-10
+          .col-lg-9
             p.mb-0 A partir de lo anterior, se hace necesario contar con un plan de trabajo organizado que facilite una comunicación efectiva entre el guía y el usuario; lo cual contribuye a que la experiencia turística sea positiva en los territorios visitados y genere impactos favorables en los ámbitos ambiental, sociocultural y económico de la comunidad receptora. Asimismo, fortalece la relación con las autoridades y con los demás actores vinculados al desarrollo de la actividad turística, favoreciendo así el crecimiento y posicionamiento del destino turístico. 
-          .col-lg-3.col-md-2.col-5
+          .col-lg-3.col-md-2.col-5.d-none.d-lg-block
             img.mb-lg-0.mb-md-0.mb-4(src='@/assets/curso/tema2/4.svg')
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -63,12 +63,12 @@
         .bg1.p-4
           img.img-t(src='@/assets/curso/tema2/7.png', alt='')
       .col-lg-7
-        p.mb-3 Además de los fundamentos anteriores, el guía de turismo debe contar con un conocimiento integral del territorio en el que desarrolla su labor, lo cual incluye aspectos relacionados con la historia, la geografía, las rutas, el patrimonio natural y el folclor de las zonas que recorre, en coherencia con los servicios contratados por el usuario. Este dominio no solo fortalece la calidad de la experiencia turística, sino que también permite una interpretación adecuada del entorno y una conexión significativa entre el visitante y el destino. 
+        p.mb-lg-3.mb-4 Además de los fundamentos anteriores, el guía de turismo debe contar con un conocimiento integral del territorio en el que desarrolla su labor, lo cual incluye aspectos relacionados con la historia, la geografía, las rutas, el patrimonio natural y el folclor de las zonas que recorre, en coherencia con los servicios contratados por el usuario. Este dominio no solo fortalece la calidad de la experiencia turística, sino que también permite una interpretación adecuada del entorno y una conexión significativa entre el visitante y el destino. 
         .bg2.p-4
           p.mb-0 Asimismo, el ejercicio de la guianza turística en Colombia exige el cumplimiento de requisitos normativos específicos. Entre estos se destacan la certificación vigente en primeros auxilios y la certificación en la norma de competencia laboral de guianza, acorde con el área de especialización del guía, sus intereses y su perfil profesional. 
       
 
-    p.mb-5 En este marco, el Decreto 1379 de 2021, que reglamenta el ejercicio del guionaje turístico en Colombia, establece un conjunto de actividades clave que orientan la preparación y desarrollo del servicio de guianza.  
+    p.mb-4 En este marco, el Decreto 1379 de 2021, que reglamenta el ejercicio del guionaje turístico en Colombia, establece un conjunto de actividades clave que orientan la preparación y desarrollo del servicio de guianza.  
     p.mb-4 Entre las principales funciones del guía de turismo se encuentran: 
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
