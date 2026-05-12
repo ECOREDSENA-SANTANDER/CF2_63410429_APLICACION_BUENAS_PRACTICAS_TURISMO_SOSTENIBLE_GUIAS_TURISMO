@@ -412,7 +412,16 @@ figcaption
   background-position: center
   border-radius: 0px
 .slyder__btn
-  background-color: #3EF989
+  background-color: #366400
+  color: white
+.slib
+  @media (min-width: 992px) 
+    .col-lg-8 
+        flex: 0 0 auto
+        width: 50%
+    .col-lg-4
+        flex: 0 0 auto
+        width: 50%
 
 .m1
   margin-left: -8px
@@ -509,7 +518,6 @@ figcaption
     top: 60px
     left: 35px
     transform: translate(-50%, -50%)
-
 
 
 //////////////////////////TABLAS///////////////////////
@@ -612,7 +620,7 @@ figcaption
       min-width: 500px !important 
   tbody
     td
-      border-left: 2.5px solid #e0e0e0
+      //border-left: 2.5px solid #e0e0e0
       padding: 0.88rem 0.75rem !important
   thead
     th
@@ -727,22 +735,18 @@ figcaption
 //////////////////////////TABLASB///////////////////////
 
 .tabla-t5
-  width: 100%
-  border-collapse: collapse
-  table-layout: fixed
   td
     border: 3px solid #604629
-    padding: 12px 14px
     vertical-align: top
   tr:nth-child(1)
     td
-      height: 49px
+      height: 30px
   tr:nth-child(5)
     td
-      height: 90px
+      height: 80px
   tr:nth-child(6)
     td
-      height: 90px
+      height: 80px
   tr:nth-child(8)
     td
       height: 80px
@@ -754,13 +758,9 @@ figcaption
   color: #B3B3B3
 
 .tabla-t6
-  width: 100%
-  border-collapse: collapse
-  table-layout: fixed
   th,
   td
     border: 3px solid #604629
-    padding: 18px 14px
     text-align: center
     vertical-align: middle
   .col-1

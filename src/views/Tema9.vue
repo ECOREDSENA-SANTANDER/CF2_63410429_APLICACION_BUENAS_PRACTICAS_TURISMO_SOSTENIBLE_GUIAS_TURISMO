@@ -30,7 +30,7 @@
         .titulo-sexto
           h5 Tabla 17. 
           | Ficha técnica de registro fotográfico
-        .tabla-t5
+        .tabla-a.tabla-t5
           table
             colgroup
               col.col-1
@@ -177,53 +177,53 @@
         .titulo-sexto
           h5 Tabla 18. 
           | Ejemplo de ficha de seguimiento
-        table.tabla-t6
-          colgroup
-            col.col-1
-            col.col-2
-            col.col-3
-          thead
-            tr
-              th Elemento
-              th Estado actual
-              th Compromiso de mejora
-          tbody
-            tr
-              td Capacidad de carga turística
-              td.tg Para diligenciar
-              td.tg Para diligenciar
-            tr
-              td Estado de los senderos
-              td.tg Para diligenciar
-              td.tg Para diligenciar
-            tr
-              td Acuerdos de conservación
-              td.tg Para diligenciar
-              td.tg Para diligenciar
-            tr
-              td Buenas prácticas de avistamiento
-              td.tg Para diligenciar
-              td.tg Para diligenciar
-            tr
-              td Perfil del avistador
-              td.tg Para diligenciar
-              td.tg Para diligenciar
-            tr
-              td Procesos de interpretación
-              td.tg Para diligenciar
-              td.tg Para diligenciar
-            tr
-              td Seguridad
-              td.tg Para diligenciar
-              td.tg Para diligenciar
-            tr
-              td Trabajo comunitario
-              td.tg Para diligenciar
-              td.tg Para diligenciar
-            tr
-              td Encadenamiento productivo
-              td.tg Para diligenciar
-              td.tg Para diligenciar
+        .tabla-a.tabla-t6
+          table
+            colgroup
+              col.col-1
+              col.col-2
+              col.col-3
+            tbody
+              tr
+                th Elemento
+                th Estado actual
+                th Compromiso de mejora
+              tr
+                td Capacidad de carga turística
+                td.tg Para diligenciar
+                td.tg Para diligenciar
+              tr
+                td Estado de los senderos
+                td.tg Para diligenciar
+                td.tg Para diligenciar
+              tr
+                td Acuerdos de conservación
+                td.tg Para diligenciar
+                td.tg Para diligenciar
+              tr
+                td Buenas prácticas de avistamiento
+                td.tg Para diligenciar
+                td.tg Para diligenciar
+              tr
+                td Perfil del avistador
+                td.tg Para diligenciar
+                td.tg Para diligenciar
+              tr
+                td Procesos de interpretación
+                td.tg Para diligenciar
+                td.tg Para diligenciar
+              tr
+                td Seguridad
+                td.tg Para diligenciar
+                td.tg Para diligenciar
+              tr
+                td Trabajo comunitario
+                td.tg Para diligenciar
+                td.tg Para diligenciar
+              tr
+                td Encadenamiento productivo
+                td.tg Para diligenciar
+                td.tg Para diligenciar
 
     .titb.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
@@ -246,24 +246,20 @@
             col.col-1
             col.col-2
             col.col-3
-          
           thead
             tr
               th Riesgo identificado
               th Condición o acto inseguro
               th Medidas de manejo
-          
           tbody
             tr
               td.tg Para diligenciar
               td.tg Para diligenciar
               td.tg Para diligenciar
-          
             tr
               td
               td
               td
-          
             tr
               td
               td
