@@ -771,22 +771,30 @@ figcaption
     width: 35.5%  
 
 .tabla-t7
-  width: 100%
-  border-collapse: collapse
-  table-layout: fixed
-
-  th,
-  td
-    border: 2px solid #6E5332
-    padding: 15px 14px
+  th, td
+    border: 3px solid #6E5332
     text-align: center
     vertical-align: middle
-  tbody
-    tr
-      height: 40px
+  table th
+    padding: 12px 5px
+  table td 
+    padding: 10px 5px
   .col-1
     width: 28%
   .col-2
     width: 36%
   .col-3
-    width: 36%
+    width: 32%
+  .tabla-peq
+    overflow-x: visible !important
+    overflow: visible !important
+    @media (max-width: 991px)
+      overflow-x: auto !important
+      -webkit-overflow-scrolling: touch !important
+      display: block !important
+    table
+      min-width: auto !important
+      width: 100% !important
+      table-layout: auto !important
+      @media (max-width: 991px)
+        min-width: 500px !important 

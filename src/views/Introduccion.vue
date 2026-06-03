@@ -30,8 +30,8 @@
       .col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/XHWBVpvtUCg?si=_osxk9LqnHtBczxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Operación del servicio turístico: recepción, traslado y alojamiento
 
 </template>
 

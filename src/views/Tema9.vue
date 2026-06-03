@@ -241,29 +241,29 @@
         .titulo-sexto
           h5 Tabla 19. 
           | Ejemplo de fichas de identificación de riesgos
-        table.tabla-t7
-          colgroup
-            col.col-1
-            col.col-2
-            col.col-3
-          thead
-            tr
-              th Riesgo identificado
-              th Condición o acto inseguro
-              th Medidas de manejo
-          tbody
-            tr
-              td.tg Para diligenciar
-              td.tg Para diligenciar
-              td.tg Para diligenciar
-            tr
-              td
-              td
-              td
-            tr
-              td
-              td
-              td
+        .tabla-a.tabla-peq.tabla-t7
+          table
+            colgroup
+              col.col-1
+              col.col-2
+              col.col-3
+            tbody
+              tr
+                th Riesgo identificado
+                th Condición o acto inseguro
+                th Medidas de manejo
+              tr
+                td.tg Para diligenciar
+                td.tg Para diligenciar
+                td.tg Para diligenciar
+              tr
+                td
+                td
+                td
+              tr
+                td
+                td
+                td
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6

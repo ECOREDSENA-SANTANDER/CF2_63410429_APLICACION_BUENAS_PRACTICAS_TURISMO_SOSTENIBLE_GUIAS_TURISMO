@@ -169,7 +169,7 @@
               .tarjeta.bg-white.p-4.p-lg-5.h-100
                 TarjetaAudio.color-acento-botones.mb-0(
                 texto="Valoración de la comunidad local y su cultura"
-                :audio="require('@/assets/actividad/audio/end-game-success.mp3')"
+                :audio="require('@/assets/actividad/audio/CF2_63410429_Valoracion_de_la_comunidad_local_y_su_cultura.mp3')"
             ).mb-0
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
                 
