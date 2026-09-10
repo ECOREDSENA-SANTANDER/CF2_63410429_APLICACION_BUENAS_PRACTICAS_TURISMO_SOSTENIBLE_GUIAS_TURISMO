@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-lg-5.mb-4(data-aos="fade-left")
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
-          img.img-t(src='@/assets/curso/tema3/1.png', alt='')
+          img.img-t(src='@/assets/curso/tema3/1.png')
       .col-lg-7
         p.mb-4 La operación del servicio de guianza turística comprende el conjunto de acciones que el guía realiza para garantizar una atención organizada, segura y de calidad en los diferentes momentos del servicio. Estas acciones incluyen la recepción de los viajeros, su traslado, acompañamiento durante la experiencia turística y la coordinación logística con los distintos actores involucrados.  
         .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
@@ -47,7 +47,7 @@
         p.mb-0 Asimismo, durante el desarrollo del servicio pueden presentarse contingencias o situaciones imprevistas, ante lo cual, el guía debe actuar con serenidad, criterio y capacidad de respuesta, brindando soluciones oportunas que garanticen la comodidad y satisfacción de los usuarios. 
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
-          img.img-t(src='@/assets/curso/tema3/3.png', alt='')
+          img.img-t(src='@/assets/curso/tema3/3.png')
     
     p.mb-4 Para una adecuada operación del servicio, se proponen las siguientes orientaciones organizadas en tres momentos: 
 

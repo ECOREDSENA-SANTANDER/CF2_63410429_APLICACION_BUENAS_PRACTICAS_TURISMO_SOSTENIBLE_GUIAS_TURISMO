@@ -17,7 +17,7 @@
         p.mb-0 En este proceso, el guía cumple un rol clave como facilitador, orientador y mediador entre el visitante, los prestadores de servicios y el entorno; su desempeño influye directamente en la percepción del servicio, la satisfacción del usuario y la imagen del destino. Por ello, es fundamental que actúe con planificación, responsabilidad, capacidad de respuesta y enfoque en la calidad del servicio. 
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
-          img(src='@/assets/curso/tema4/1.png', alt='')
+          img(src='@/assets/curso/tema4/1.png')
 
 
     separador
@@ -258,7 +258,7 @@
     .row.justify-content-center.align-items-center.mb-lg-5.mb-4(data-aos="fade-left")
       .col-lg-5.d-none.d-lg-block
         .bg4.p-4
-          img.img-t(src='@/assets/curso/tema4/8.png', alt='')
+          img.img-t(src='@/assets/curso/tema4/8.png')
       .col-lg-7
         p.mb-4 El guía de turismo cumple un rol fundamental en la coordinación y acompañamiento del visitante durante los procesos de embarque y desembarque. Su función principal es orientar, prevenir riesgos y garantizar que el servicio se desarrolle de manera segura, organizada y acorde con la normatividad vigente. 
         .bg2.p-4

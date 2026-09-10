@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
-          img.img-t(src='@/assets/curso/tema10/1.png', alt='')
+          img.img-t(src='@/assets/curso/tema10/1.png')
       .col-lg-7
         p.mb-4 En el turismo, las buenas prácticas, según la organización Rainforest Alliance, se entienden como formas de operación que contribuyen simultáneamente a la conservación del patrimonio natural y cultural, al desarrollo social y económico de las comunidades y a la satisfacción de los visitantes. En este sentido, realizar actividades turísticas en espacios naturales implica adoptar comportamientos responsables que promuevan su valoración, conservación y uso sostenible. 
         .bg2.p-4
@@ -49,7 +49,7 @@
         p.mb-0 Por ello, es fundamental que las entidades territoriales, en articulación con las autoridades ambientales, promuevan estudios y acciones que permitan reconocer y fortalecer el aporte de las áreas protegidas al desarrollo territorial y nacional. 
       .col-lg-4.d-none.d-lg-block
         .bg1.p-4
-          img.img-t(src='@/assets/curso/tema10/2.png', alt='')
+          img.img-t(src='@/assets/curso/tema10/2.png')
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12

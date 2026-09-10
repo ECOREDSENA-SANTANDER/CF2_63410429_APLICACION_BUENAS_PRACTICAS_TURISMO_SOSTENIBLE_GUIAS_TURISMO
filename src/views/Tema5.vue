@@ -19,7 +19,7 @@
     p.mb-lg-5.mb-4 Más allá de recolectar opiniones, estas encuestas facilitan la toma de decisiones, la identificación de oportunidades de mejora y el fortalecimiento de la experiencia turística. 
 
     .titb.mb-4(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema9/sub.svg')")
       h4.mb-0.text-white Fases para la construcción y aplicación de una encuesta de satisfacción 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -155,30 +155,30 @@
                   p.mb-0 Comparar resultados en el tiempo (seguimiento).  
               p.mb-0 El valor de la encuesta está en usar la información para mejorar, no solo en recolectarla. 
       .col-lg-4.d-none.d-lg-block
-        img(src='@/assets/curso/tema5/2.png', alt='')
+        img(src='@/assets/curso/tema5/2.png')
 
     p.mb-4 #[b Tipos de encuestas de satisfacción más utilizados:] dependiendo del objetivo, se pueden emplear distintos modelos: 
 
     .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-right")
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema5/3.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema5/3.svg')
           p.mb-0.text-center Encuesta general de satisfacción: evalúa la experiencia global del usuario.  
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema5/4.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema5/4.svg')
           p.mb-0.text-center Encuesta por servicio específico: se enfoca en un componente particular (guía, transporte, alojamiento).  
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema5/5.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema5/5.svg')
           p.mb-0.text-center Encuesta postservicio inmediato: se aplica al finalizar la actividad.  
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema5/6.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema5/6.svg')
           p.mb-0.text-center Encuesta de seguimiento: se realiza días después para evaluar recordación y percepción global.  
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema5/7.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema5/7.svg')
           p.mb-0.text-center Encuesta digital automatizada: facilita la recolección y análisis en tiempo real.  
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")

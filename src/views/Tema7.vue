@@ -33,7 +33,7 @@
                 p.mb-0 Prácticas culturales y experiencias comunitarias. 
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
-          img(src='@/assets/curso/tema7/2.png', alt='')
+          img(src='@/assets/curso/tema7/2.png')
     
     p.mb-4 Estos elementos reflejan procesos históricos y sociales que configuran identidades en contextos locales, regionales, nacionales e indígenas. 
     
@@ -71,19 +71,19 @@
                 td La promoción turística debe proteger, respetar y resaltar las características del patrimonio natural y cultural.
 
     .tit.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/movil.svg')")
       h3.mb-0 Rol del guía de turismo en la aplicación de la carta 
 
     p.mb-5 El guía de turismo desempeña un papel fundamental como mediador entre el patrimonio, los visitantes y las comunidades anfitrionas. Su labor va más allá de brindar información; implica generar experiencias que promuevan el respeto, la comprensión cultural y la valoración del territorio. 
 
     .titb.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema9/sub.svg')")
       h4.mb-0.text-white Funciones clave del guía
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5.d-none.d-lg-block
         .bg4.p-4
-          img.img-t(src='@/assets/curso/tema7/3.png', alt='')
+          img.img-t(src='@/assets/curso/tema7/3.png')
       .col-lg-7
         LineaTiempoD.color-secundario.activo
           .row.justify-content-center.align-items-center.mb-0(numero="1" titulo="Mediación cultural")

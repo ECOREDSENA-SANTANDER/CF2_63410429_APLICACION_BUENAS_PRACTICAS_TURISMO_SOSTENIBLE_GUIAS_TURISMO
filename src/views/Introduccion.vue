@@ -24,7 +24,7 @@
             p.mb-0 De igual manera, se promueve la comprensión de la sostenibilidad en sus dimensiones sociocultural y ambiental, resaltando la importancia del código de ética del turismo, la protección del patrimonio cultural y natural, y la valoración de la identidad local; es así como, se fortalecen las capacidades para aplicar herramientas de gestión sostenible que contribuyen a la mejora del servicio y al desarrollo responsable del sector turístico, en coherencia con las normas técnicas de calidad vigentes y las dinámicas del contexto.   
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
-          img(src='@/assets/curso/intro/2.png', alt='')
+          img(src='@/assets/curso/intro/2.png')
       
 
 </template>

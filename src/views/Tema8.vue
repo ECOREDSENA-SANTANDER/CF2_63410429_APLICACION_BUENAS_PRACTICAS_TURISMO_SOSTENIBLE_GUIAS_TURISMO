@@ -17,12 +17,12 @@
           p.mb-5.bloque-texto-f__texto.mx-lg-5.mx-2.mt-lg-3 Bienes y valores culturales que son expresión de la nacionalidad colombiana, tales como las tradiciones, costumbres y hábitos, así como los bienes materiales e inmateriales, muebles e inmuebles, que poseen un especial interés histórico, artístico, estético, arquitectónico, urbano, arqueológico, ambiental, ecológico, lingüístico, sonoro, musical, audiovisual, fílmico, científico, testimonial, documental, literario, bibliográfico, museológico y antropológico, junto con las manifestaciones, productos y representaciones de la cultura popular. 
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
-          img.img-t(src='@/assets/curso/tema8/1.png', alt='')
+          img.img-t(src='@/assets/curso/tema8/1.png')
     
     p.mb-5 Esta definición resalta que el patrimonio cultural no solo incluye elementos físicos, sino también expresiones vivas que reflejan la identidad, la historia y la diversidad cultural del país. 
 
     .tit.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/movil.svg')")
       h3.mb-0 Patrimonio cultural en el ámbito local 
 
     .row.justify-content-center.align-items-end.mb-5
@@ -121,7 +121,7 @@
               p.mb-0 Pore, Casanare.  
 
     .titb.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema9/sub.svg')")
       h4.mb-0.text-white Características de los pueblos patrimonio, estos destinos se destacan por: 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -150,7 +150,7 @@
         p.mb-0 Estos destinos se caracterizan por tener una arquitectura diferenciada, cultura autóctona, gastronomía propia, entorno natural, y por guardar parte de la historia y del desarrollo del país. 
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
-          img(src='@/assets/curso/tema8/3.png', alt='')
+          img(src='@/assets/curso/tema8/3.png')
 
     p.mb-4 A continuación, se presentan algunos sitios reconocidos como patrimonio cultural, a través de los cuales es posible analizar la evolución de su reconocimiento en Colombia. Se recomienda revisar esta información para identificar los momentos más relevantes en su proceso de consolidación: 
 
@@ -162,7 +162,7 @@
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12
-        img(src='@/assets/curso/tema8/5.svg', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/tema8/5.svg')
         .row.justify-content-center.g-0
           .col-lg-12
             .tarjeta.bg16.p-4.rounded-0.h-100
@@ -182,14 +182,14 @@
       .col-lg-8
         .row.justify-content-center.align-items-end.mb-4
           .col-lg-3.d-none.d-lg-block
-            img(src='@/assets/curso/tema8/6.png', alt='')
+            img(src='@/assets/curso/tema8/6.png')
           .col-lg-9
             p.mb-0 La interpretación del patrimonio natural y cultural permite descubrir y comunicar los significados que otorgan valor a un lugar, una manifestación o un objeto; en este sentido, constituye una disciplina orientada a facilitar la comprensión del patrimonio por parte de los visitantes mediante experiencias significativas. Para ello, se apoya en estrategias comunicativas que favorecen la participación activa, promoviendo no solo la observación, sino también la reflexión, el reconocimiento y la valoración del entorno (Lazo Cruz & Arróspide Tehuay, 2011). 
         p.mb-4 Desde la perspectiva de la UNESCO, el patrimonio se clasifica en tres grandes categorías: cultural material, cultural inmaterial y natural; el primero comprende bienes tangibles como monumentos, sitios arqueológicos, obras artísticas y documentos históricos; el segundo incluye saberes, tradiciones, expresiones orales y prácticas culturales vivas; mientras que el patrimonio natural abarca paisajes, formaciones físicas, biológicas y áreas protegidas de especial valor para la humanidad. 
         .bg6.p-4
           p.mb-0 En este marco, el intérprete (especialmente el guía de turismo) requiere desarrollar conocimientos, habilidades comunicativas y estrategias pedagógicas que le permitan orientar al visitante de manera pertinente; su labor trasciende la transmisión de información, ya que busca generar conexiones entre el patrimonio y la experiencia personal de quien lo visita, favoreciendo procesos de aprendizaje, sensibilización y respeto por los entornos naturales y culturales. 
       .col-lg-4.d-none.d-lg-block
-        img(src='@/assets/curso/tema8/7.png', alt='')
+        img(src='@/assets/curso/tema8/7.png')
     
     p.mb-4 Pero ¿cómo se transmite un mensaje interpretativo sobre el patrimonio natural y cultural? De acuerdo con la Guía de Interpretación del Patrimonio Natural y Cultural (Lazo Cruz & Arróspide Tehuay, 2011), se propone: 
 
@@ -285,10 +285,10 @@
     .row.justify-content-center.align-items-end.mb-0
       .col-lg-4.mb-lg-0.mb-4
         .bg6.p-4
-          img.img-t.mb-4(src='@/assets/curso/tema8/10.svg', alt='')
+          img.img-t.mb-4(src='@/assets/curso/tema8/10.svg')
           p.mb-0 Se recomienda que, en el recorrido interpretativo autoguiado, se utilicen recursos como paneles explicativos, folletos, exhibiciones y medios de audio, con el fin de facilitar la comprensión del patrimonio de manera autónoma por parte del visitante. 
       .col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/tema8/11.png', alt='')
+        img(src='@/assets/curso/tema8/11.png')
       .col-lg-3
         p.mb-0 En el caso del recorrido interpretativo guiado, es fundamental realizar una adecuada planificación y preparación del proceso, considerando las etapas antes de iniciar, durante el desarrollo del recorrido, al finalizar la experiencia y en la evaluación posterior, con el propósito de garantizar una experiencia organizada, significativa y coherente. 
 
@@ -333,10 +333,10 @@
                 td Formulario 5
       .col-lg-6.d-none.d-lg-block
         .bg1.p-4
-          img(src='@/assets/curso/tema8/12.png', alt='')
+          img(src='@/assets/curso/tema8/12.png')
 
     .tit.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/movil.svg')")
       h3.mb-0 Criterios de valoración del patrimonio cultural 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -410,7 +410,7 @@
                 td 70
           
     .tit.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/movil.svg')")
       h3.mb-0 Valoración de festividades, eventos y grupos de especial interés 
 
     .row.justify-content-center.align-items-end.mb-5
@@ -445,7 +445,7 @@
                 td 70
 
     .tit.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/movil.svg')")
       h3.mb-0 Criterios de valoración de los sitios naturales 
 
     .row.justify-content-center.align-items-end.mb-5(data-aos="fade-left")
@@ -476,10 +476,10 @@
         p.mb-0 Estos criterios permiten identificar si el entorno se mantiene en condiciones adecuadas para su aprovechamiento turístico sostenible. 
       .col-lg-4.d-none.d-lg-block
         .bg1.p-4
-          img.img-t(src='@/assets/curso/tema8/16.png', alt='')
+          img.img-t(src='@/assets/curso/tema8/16.png')
 
     .tit.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/movil.svg')")
       h3.mb-0 Valoración del significado del atractivo turístico  
 
     p.mb-4 Además de la calidad, se evalúa el significado del atractivo turístico, el cual hace referencia al nivel de reconocimiento que tiene en los mercados turísticos. Este análisis es fundamental para determinar su potencial dentro de la planificación turística.  
@@ -511,11 +511,11 @@
                 td Internacional
                 td En dos o más países.
       .col-lg-4
-        img.img-t.mb-5.d-none.d-lg-block(src='@/assets/curso/tema8/17.svg', alt='')
+        img.img-t.mb-5.d-none.d-lg-block(src='@/assets/curso/tema8/17.svg')
         p.mb-0 Este reconocimiento no se basa en percepciones subjetivas, sino en evidencia proveniente de fuentes como guías turísticas, paquetes de agencias de viaje, revistas especializadas, medios de comunicación y material cartográfico. 
         
     .tit.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/movil.svg')")
       h3.mb-0 Importancia de la valoración 
 
     p.mb-4 La valoración del estado de conservación y del significado de los atractivos turísticos permite: 
@@ -523,23 +523,23 @@
     .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-right")
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema8/18.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema8/18.svg')
           p.mb-0.text-center Identificar cuáles bienes pueden considerarse recursos o atractivos turísticos.
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema8/19.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema8/19.svg')
           p.mb-0.text-center Orientar procesos de planificación turística.
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema8/20.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema8/20.svg')
           p.mb-0.text-center Diseñar productos turísticos acordes al territorio. 
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema8/21.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema8/21.svg')
           p.mb-0.text-center Definir mercados objetivo para la promoción y comercialización. 
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema8/22.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema8/22.svg')
           p.mb-0.text-center Priorizar acciones de fortalecimiento y conservación.
 
     p.mb-0 Cuando un bien únicamente posee reconocimiento local, se considera un #[b recurso turístico] con potencial de desarrollo. En estos casos, es necesario implementar estrategias de mejora y promoción que permitan su posicionamiento en niveles regionales, nacionales o internacionales. 

@@ -14,10 +14,10 @@
           p.mb-0.mb-lg-2.mt-lg-3.mx-lg-3 Estos indicadores permiten identificar si el turismo genera beneficios o impactos negativos, y orientan acciones para mejorar la gestión del servicio turístico. 
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
-          img.img-t(src='@/assets/curso/tema1/1.png', alt='')
+          img.img-t(src='@/assets/curso/tema1/1.png')
 
     .tit.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/movil.svg')")
       h3.mb-0 Indicadores de sostenibilidad en turismo (OMT)
 
     p.mb-4 A continuación, se presentan los principales indicadores de sostenibilidad en turismo propuestos por la OMT, los cuales permiten evaluar de manera integral cómo la actividad turística impacta los recursos naturales, el desarrollo económico y el entorno social. Estos indicadores facilitan la toma de decisiones orientadas a un turismo responsable, equilibrado y sostenible en los territorios. 
@@ -55,7 +55,7 @@
     .row.justify-content-center.mb-lg-5.mb-4
       .col-lg-5
         .titb.titul1.mb-0(data-aos="fade-left")
-          img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
+          img(:src="require('@/assets/curso/tema9/sub.svg')")
           h4.mb-0.text-white ¿Por qué son importantes? 
         .bg3.p-4
           p.mb-4.my-4 Los indicadores permiten: 
@@ -76,17 +76,17 @@
               i.fas.fa-bolt
               p.mb-0 Promover el bienestar de las comunidades. 
       .col-lg-7.d-none.d-lg-block
-        img(src='@/assets/curso/tema1/2.png', alt='')
+        img(src='@/assets/curso/tema1/2.png')
 
     .tit.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/movil.svg')")
       h3.mb-0 Relación con estándares internacionales  
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/tema1/3.svg', alt='')
+        img(src='@/assets/curso/tema1/3.svg')
       .col-lg-7
-        img.img-t.mb-4.d-none.d-lg-block(src='@/assets/curso/tema1/4.svg', alt='')
+        img.img-t.mb-4.d-none.d-lg-block(src='@/assets/curso/tema1/4.svg')
         p.mb-4 A nivel internacional, el Consejo Global de Turismo Sostenible (GSTC, por sus siglas en inglés) establece criterios que sirven como referencia para aplicar estos indicadores y para ello existen tres tipos de criterios: 
         ul.lista-ul.mb-0
           li.d-flex.mb-3
@@ -100,7 +100,7 @@
             p.mb-0 #[b Para eventos:] enfocados en reuniones, congresos y exposiciones. 
         
     .tit.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/movil.svg')")
       h3.mb-0 Pilares de la sostenibilidad en turismo 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -184,7 +184,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
-          img.img-t(src='@/assets/curso/tema1/9.png', alt='')
+          img.img-t(src='@/assets/curso/tema1/9.png')
       .col-lg-7
         p.mb-lg-3.mb-4 El guía de turismo en Colombia desempeña un papel fundamental en la promoción de la sostenibilidad sociocultural, en tanto es responsable de ofrecer un servicio de calidad que respete y valore las características culturales, sociales y humanas de los territorios. En este sentido, la Norma Técnica Colombiana NTC 6507:2021 establece la importancia de la planificación del servicio de guianza como un elemento clave para garantizar experiencias turísticas organizadas, seguras y satisfactorias.
         .bg2.p-4.p-lg-3
@@ -240,11 +240,11 @@
             p.mb-0 Además de las técnicas presentadas en la tabla, el guía de turismo debe asumir un enfoque inclusivo y preventivo, orientado a garantizar la accesibilidad, la seguridad y el bienestar de todos los usuarios. 
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
-          img.img-t(src='@/assets/curso/tema1/10.png', alt='')
+          img.img-t(src='@/assets/curso/tema1/10.png')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/tema1/12.svg', alt='')
+        img(src='@/assets/curso/tema1/12.svg')
       .col-lg-7
         p.mb-4 Se espera que:
         ul.lista-ul.mb-0
@@ -275,30 +275,30 @@
         p.mb-0 En coherencia con los principios de sostenibilidad sociocultural y económica previamente abordados, la gestión ambiental en la guianza turística debe integrarse desde la planificación del servicio (NTC 6507:2021), incorporando criterios de protección del entorno en el diseño del itinerario, la selección de rutas, el manejo de grupos y la implementación de planes de contingencia; esto permite no solo prevenir impactos ambientales, sino también generar conciencia en los visitantes sobre la importancia de conservar los recursos naturales. 
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
-          img(src='@/assets/curso/tema1/14.png', alt='')
+          img(src='@/assets/curso/tema1/14.png')
     
     p.mb-4 Además de las técnicas de presentación, comunicación y gestión de grupos, el guía debe asumir acciones concretas orientadas a la sostenibilidad ambiental, tales como: 
 
     .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-right")
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema1/15.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema1/15.svg')
           p.mb-0.text-center Promover el uso adecuado de los recursos naturales, evitando prácticas que generen contaminación o deterioro del entorno (manejo de residuos, uso racional del agua y la energía).
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema1/16.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema1/16.svg')
           p.mb-0.text-center Sensibilizar a los visitantes sobre la importancia de la biodiversidad, los ecosistemas y su conservación, integrando mensajes educativos durante el recorrido. 
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema1/17.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema1/17.svg')
           p.mb-0.text-center Fomentar comportamientos responsables, como no extraer flora o fauna, respetar senderos establecidos y cumplir las normas del destino.  
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema1/18.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema1/18.svg')
           p.mb-0.text-center Identificar y gestionar riesgos ambientales, implementando medidas preventivas en el desarrollo de las actividades turísticas.
       .col-lg.col-md-6.mb-lg-0.mb-4
         .h-100.bg7.p-4
-          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema1/19.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema1/19.svg')
           p.mb-0.text-center Articular su labor con políticas y normativas ambientales vigentes, contribuyendo a la protección de áreas naturales y al turismo sostenible en el territorio.  
 
     p.mb-4 La sostenibilidad y gestión ambiental no solo constituyen un componente técnico del servicio de guianza, sino también un compromiso ético y social que contribuye a la preservación del patrimonio natural, al fortalecimiento del turismo responsable y al desarrollo sostenible de los destinos. 

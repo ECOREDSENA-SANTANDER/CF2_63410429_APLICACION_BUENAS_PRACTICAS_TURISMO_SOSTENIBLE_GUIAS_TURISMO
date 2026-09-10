@@ -28,7 +28,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-4.d-none.d-lg-block
-        img.img-t(src='@/assets/curso/tema2/3.png', alt='')
+        img.img-t(src='@/assets/curso/tema2/3.png')
       .col-lg-8
         .bg8.p-lg-5.p-4.mb-4
           p.mb-0 Para desempeñar con éxito la labor del guía dentro de la cadena de servicio turístico, es fundamental organizar adecuadamente sus funciones y responsabilidades. En este sentido, el turismo debe entenderse como una actividad articulada entre diversos actores del territorio. Como señalan Panosso y Lohmann (2012, como se citó en Hoyos Pardo, 2021), “el turismo se debe entender desde un sistema de comunicaciones entre las agencias de viajes, los guías de turismo, las cadenas hoteleras, los establecimientos gastronómicos, los artesanos, los planes de desarrollo departamental y las redes o medios de comunicación para atraer a los diferentes tipos de turistas hacia el territorio deseado” (p. 11). 
@@ -61,7 +61,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5.d-none.d-lg-block
         .bg1.p-4
-          img.img-t(src='@/assets/curso/tema2/7.png', alt='')
+          img.img-t(src='@/assets/curso/tema2/7.png')
       .col-lg-7
         p.mb-lg-3.mb-4 Además de los fundamentos anteriores, el guía de turismo debe contar con un conocimiento integral del territorio en el que desarrolla su labor, lo cual incluye aspectos relacionados con la historia, la geografía, las rutas, el patrimonio natural y el folclor de las zonas que recorre, en coherencia con los servicios contratados por el usuario. Este dominio no solo fortalece la calidad de la experiencia turística, sino que también permite una interpretación adecuada del entorno y una conexión significativa entre el visitante y el destino. 
         .bg2.p-4
@@ -73,58 +73,58 @@
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-3.d-none.d-lg-block
-        img.img-t(src="@/assets/curso/tema2/8.png", alt="alt")
+        img.img-t(src="@/assets/curso/tema2/8.png")
       .col-lg-9
         SlyderF.circl-arrow(columnas="col-md-6 col-xl-4")
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/9.svg' alt='AvatarTop')
+                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/9.svg')
             p.mb-0.text-center Planear y controlar el servicio de guianza de acuerdo con lo contratado y los requerimientos técnicos y normativos. 
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/10.svg' alt='AvatarTop')
+                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/10.svg')
             p.mb-0.text-center Diseñar recorridos turísticos conforme a las condiciones del servicio y la normativa vigente.  
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/11.svg' alt='AvatarTop')
+                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/11.svg')
             p.mb-0.text-center Elaborar guiones interpretativos acordes con los lineamientos del sector.  
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/12.svg' alt='AvatarTop')
+                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/12.svg')
             p.mb-0.text-center Conducir grupos de turistas según su especialidad y las condiciones del servicio contratado.  
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/13.svg' alt='AvatarTop')
+                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/13.svg')
             p.mb-0.text-center Promover la conservación y protección del patrimonio natural y cultural entre visitantes y comunidades.  
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/14.svg' alt='AvatarTop')
+                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/14.svg')
             p.mb-0.text-center Apoyar la gestión y el desarrollo de los destinos turísticos, en articulación con la normativa del sector.  
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/15.svg' alt='AvatarTop')
+                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/15.svg')
             p.mb-0.text-center Transmitir conocimientos sobre el patrimonio natural y cultural del territorio mediante técnicas de comunicación adecuadas.  
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/16.svg' alt='AvatarTop')
+                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/16.svg')
             p.mb-0.text-center Informar sobre el patrimonio local considerando las características del entorno y los protocolos de la comunidad.  
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/17.svg' alt='AvatarTop')
+                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/17.svg')
             p.mb-0.text-center Narrar historias y elementos culturales respetando los principios de protección del patrimonio.  
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/18.svg' alt='AvatarTop')
+                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/18.svg')
             p.mb-0.text-center Mediar entre los intereses del visitante y la comunidad local, favoreciendo relaciones respetuosas.  
 
 
