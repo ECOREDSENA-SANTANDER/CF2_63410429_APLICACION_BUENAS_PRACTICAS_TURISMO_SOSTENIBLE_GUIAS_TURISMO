@@ -123,7 +123,7 @@
                     img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema6/10.svg' alt='AvatarTop')
                 p.mb-0.text-center Reconocimiento de derechos laborales (art. 9): valorar sus propios derechos y los de los demás actores del sector.  
 
-    p.mb-0 El Código Ético Mundial para el Turismo no solo establece principios generales, sino que se convierte en una herramienta práctica para el desempeño del guía de turismo. Su aplicación permite ofrecer un servicio de calidad, fortalecer la imagen del destino y contribuir al desarrollo sostenible, garantizando experiencias responsables, respetuosas y enriquecedoras para todos los involucrado. 
+    p.mb-0 El Código Ético Mundial para el Turismo no solo establece principios generales, sino que se convierte en una herramienta práctica para el desempeño del guía de turismo. Su aplicación permite ofrecer un servicio de calidad, fortalecer la imagen del destino y contribuir al desarrollo sostenible, garantizando experiencias responsables, respetuosas y enriquecedoras para todos los involucrados. 
 
 
 </template>

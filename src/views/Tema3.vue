@@ -25,9 +25,9 @@
       .col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Operación del servicio turístico: recepción, traslado y alojamiento. 
-    
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/XHWBVpvtUCg?si=_osxk9LqnHtBczxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Operación del servicio turístico: recepción, traslado y alojamiento
+
     p.mb-0 Su revisión contribuirá al fortalecimiento de conocimientos orientados a la prestación de un servicio turístico profesional y centrado en la satisfacción del visitante. 
 
 
@@ -37,7 +37,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-7
-        p.mb-lg-3.mb-4 Una de las funciones esenciales del guía de turismo es realizar el transfer o proceso de recepción y traslado de los viajeros en los diferentes terminales de transporte; esta actividad incluye su acompañamiento hasta el lugar de alojamiento y la verificación de aspectos logísticos fundamentales. 
+        p.mb-lg-3.mb-4 Una de las funciones esenciales del guía de turismo es realizar el #[em transfer] o proceso de recepción y traslado de los viajeros en los diferentes terminales de transporte; esta actividad incluye su acompañamiento hasta el lugar de alojamiento y la verificación de aspectos logísticos fundamentales. 
         .bg2.p-4.mb-3
           .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
             .col-lg-2.col-md-2.col-5

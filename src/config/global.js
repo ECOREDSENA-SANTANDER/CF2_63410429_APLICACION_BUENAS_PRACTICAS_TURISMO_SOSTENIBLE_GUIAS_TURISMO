@@ -3,7 +3,7 @@ export default {
     Name:
       'Herramientas para la gestión sostenible del servicio de guianza turística',
     Description:
-      'El componente formativo herramientas para la gestión sostenible del servicio de guianza turística, desarrolla en el aprendiz la capacidad para aplicar herramientas que orientan la gestión sostenible del servicio de guianza turística, integrando las dimensiones económica, sociocultural y ambiental. Asimismo, fortalece la organización del servicio, la atención al usuario y la implementación de normas técnicas de calidad vigentes en el sector turístico.',
+      'El componente formativo Herramientas para la gestión sostenible del servicio de guianza turística, desarrolla en el aprendiz la capacidad para aplicar herramientas que orientan la gestión sostenible del servicio de guianza turística, integrando las dimensiones económica, sociocultural y ambiental. Asimismo, fortalece la organización del servicio, la atención al usuario y la implementación de normas técnicas de calidad vigentes en el sector turístico.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -338,7 +338,8 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
+          cargo:
+            'Profesional grado 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

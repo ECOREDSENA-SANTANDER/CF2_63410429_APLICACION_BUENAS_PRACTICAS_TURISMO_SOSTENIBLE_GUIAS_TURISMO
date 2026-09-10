@@ -20,17 +20,17 @@
 
     .titb.mb-4(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
-      h3.mb-0.text-white Fases para la construcción y aplicación de una encuesta de satisfacción 
+      h4.mb-0.text-white Fases para la construcción y aplicación de una encuesta de satisfacción 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        p.mb-4 A continuación, se presentan las cuatro fases esenciales del proceso de satisfacción de turista: 
+        p.mb-4 A continuación, se presentan las cuatro fases para la construcción, aplicación y análisis de una encuesta de satisfacción del turista: 
         AcordionA.press(tipo="b" clase-tarjeta="tarjeta tarjeta--grey")
           .row.align-items-center(titulo="Fase 1. Definición del servicio a evaluar")
             .col-lg-11
               p.mb-4 En esta etapa se delimita claramente el objeto de evaluación. 
               p.mb-4 Aspectos clave: 
-              ul.lista-ul.mb-0
+              ul.lista-ul.mb-4
                 li.d-flex.mb-2
                   i.fas.fa-bolt
                   p.mb-0 Determinar el tipo de servicio (recorrido guiado, transporte, alojamiento, actividad específica). 
@@ -40,9 +40,7 @@
                 li.d-flex.mb-2
                   i.fas.fa-bolt
                   p.mb-0 Establecer el objetivo de la evaluación (calidad, seguridad, experiencia del usuario, etc.). 
-                li.d-flex.mb-0
-                  i.fas.fa-bolt
-                  p.mb-0 Esto permite enfocar la encuesta y asegurar que la información recolectada sea pertinente y útil. 
+              p.mb-0 Esto permite enfocar la encuesta y asegurar que la información recolectada sea pertinente y útil. 
           .row.align-items-center(titulo="Fase 2. Construcción de la encuesta")
             .col-lg-11
               p.mb-4 Consiste en el diseño del instrumento de recolección de información. 
@@ -67,13 +65,13 @@
                     ul.lista-ul.mb-0
                       li.d-flex.mb-0
                         i.fas.fa-check
-                        p.mb-0 Atención del guía. 
+                        p.mb-0 Seguridad. 
                       li.d-flex.mb-0
                         i.fas.fa-check
-                        p.mb-0 Puntualidad. 
+                        p.mb-0 Organización. 
                       li.d-flex.mb-0
                         i.fas.fa-check
-                        p.mb-0 Claridad de la información.
+                        p.mb-0 Experiencia general. 
                 li.d-flex.mb-2
                   i.fas.fa-bolt
                   p.mb-0 Diseño de preguntas:

@@ -329,7 +329,7 @@ export default {
         },
         {
           id: 13,
-          texto: 'El check-in en un hotel corresponde al proceso de:',
+          texto: 'El <em>check-in</em> en un hotel corresponde al proceso de:',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -343,7 +343,7 @@ export default {
             { id: 'd', texto: 'Salida y pago final.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Se evidencia que comprende el significado del proceso de check-in en un hotel.',
+            'Se evidencia que comprende el significado del proceso de <i>check-in</i> en un hotel.',
           mensaje_incorrecto: 'Se recomienda revisar nuevamente el componente.',
         },
         {

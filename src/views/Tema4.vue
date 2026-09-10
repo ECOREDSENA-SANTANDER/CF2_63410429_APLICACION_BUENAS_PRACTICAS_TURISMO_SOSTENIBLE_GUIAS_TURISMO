@@ -174,7 +174,7 @@
                       p.mb-0 Normas del lugar.
                     li.d-flex.mb-2
                       i.fas.fa-circle
-                      p.mb-0 Tiempo estimado de atención.
+                      p.mb-0 Tiempo estimado de atención.  
                 td Organizar el ingreso y generar confianza en el visitante.
               tr
                 td Durante la permanencia
@@ -253,7 +253,7 @@
 
     separador
     #t_4_3.titulo-segundo.mb-5
-      h2 4.3 Llegada y salida de embarcaciones (marítimas, fluviales). 
+      h2 4.3 Llegada y salida de embarcaciones (marítimas, fluviales)
 
     .row.justify-content-center.align-items-center.mb-lg-5.mb-4(data-aos="fade-left")
       .col-lg-5.d-none.d-lg-block
@@ -374,31 +374,6 @@
                       i.fas.fa-circle
                       p.mb-0 Información sobre rutas, horarios y próximos destinos.
                 td Evitar inconvenientes y garantizar continuidad eficiente del recorrido.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </template>

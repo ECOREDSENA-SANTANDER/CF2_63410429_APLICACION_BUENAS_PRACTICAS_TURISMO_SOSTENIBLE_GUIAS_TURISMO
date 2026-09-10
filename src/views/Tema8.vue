@@ -61,68 +61,68 @@
           ul.lista-ul.mb-0
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 Aguadas, Caldas 
+              p.mb-0 Aguadas, Caldas. 
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 Barichara, Santander
+              p.mb-0 Barichara, Santander.
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 Ciénaga, Magdalena  
+              p.mb-0 Ciénaga, Magdalena.  
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 Jardín, Antioquia  
+              p.mb-0 Jardín, Antioquia. 
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 Guadalajara de Buga, Valle del Cauca 
+              p.mb-0 Guadalajara de Buga, Valle del Cauca. 
             li.d-flex.mb-0
               i.fas.fa-bolt
-              p.mb-0 Jericó, Antioquia  
+              p.mb-0 Jericó, Antioquia.  
       .col-lg-4.col-md-6.mb-lg-0.mb-4 
         .bg15.p-4.h-100
           ul.lista-ul.mb-0
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 Monguí, Boyacá  
+              p.mb-0 Monguí, Boyacá.  
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 Honda, Tolima 
+              p.mb-0 Honda, Tolima. 
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 Playa de Belén, Norte de Santander 
+              p.mb-0 Playa de Belén, Norte de Santander. 
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 Salamina, Caldas  
+              p.mb-0 Salamina, Caldas.  
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 Girón (San Juan Girón), Santander  
+              p.mb-0 Girón (San Juan Girón), Santander.  
             li.d-flex.mb-0
               i.fas.fa-bolt
-              p.mb-0 Guaduas (Villa de Guaduas), Cundinamarca 
+              p.mb-0 Guaduas (Villa de Guaduas), Cundinamarca. 
       .col-lg-4.col-md-6.mb-lg-0.mb-4
         .bg10.p-4.h-100
           ul.lista-ul.mb-0
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 Santa Cruz de Lorica, Córdoba  
+              p.mb-0 Santa Cruz de Lorica, Córdoba.  
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 Santa Cruz de Mompox, Bolívar
+              p.mb-0 Santa Cruz de Mompox, Bolívar.
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 Santa Fé de Antioquia, Antioquia  
+              p.mb-0 Santa Fé de Antioquia, Antioquia.  
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 Villa de Leyva, Boyacá  
+              p.mb-0 Villa de Leyva, Boyacá. 
             li.d-flex.mb-2
               i.fas.fa-bolt
-              p.mb-0 El Socorro, Santander  
+              p.mb-0 El Socorro, Santander.  
             li.d-flex.mb-0
               i.fas.fa-bolt
-              p.mb-0 Pore, Casanare  
+              p.mb-0 Pore, Casanare.  
 
     .titb.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
-      h3.mb-0.text-white Características de los pueblos patrimonio, estos destinos se destacan por: 
+      h4.mb-0.text-white Características de los pueblos patrimonio, estos destinos se destacan por: 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-7
@@ -348,7 +348,7 @@
             img.img-t.img-a(src='@/assets/curso/tema8/14.svg')
           .col-lg-10.ps-lg-0
             p.mb-0 La valoración del patrimonio cultural se enfoca en la calidad del bien o manifestación, considerando características específicas según su naturaleza. 
-        p.mb-0 En el caso del patrimonio cultural material, se analiza el estado de conservación, entendido como la integridad física y estética del bien, ya sea en su condición original o después de procesos de restauración. También se evalúa la constitución del bien, es decir, los materiales y técnicas de elaboración, los cuales pueden tener valor por su antigüedad, por estar en desuso o por representar avances tecnológicos. Finalmente, se considera la representatividad, relacionada con la importancia histórica, social o cultural del bien dentro de un contexto determinado. 
+        p.mb-0 En el caso del #[b patrimonio cultural material,] se analiza el estado de conservación, entendido como la integridad física y estética del bien, ya sea en su condición original o después de procesos de restauración. También se evalúa la constitución del bien, es decir, los materiales y técnicas de elaboración, los cuales pueden tener valor por su antigüedad, por estar en desuso o por representar avances tecnológicos. Finalmente, se considera la representatividad, relacionada con la importancia histórica, social o cultural del bien dentro de un contexto determinado. 
 
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-4.mb-lg-0.mb-4
@@ -542,7 +542,7 @@
           img.img-t.img-a.my-2.mb-4(src='@/assets/curso/tema8/22.svg' alt='AvatarTop')
           p.mb-0.text-center Priorizar acciones de fortalecimiento y conservación.
 
-    p.mb-0 Cuando un bien únicamente posee reconocimiento local, se considera un recurso turístico con potencial de desarrollo. En estos casos, es necesario implementar estrategias de mejora y promoción que permitan su posicionamiento en niveles regionales, nacionales o internacionales. 
+    p.mb-0 Cuando un bien únicamente posee reconocimiento local, se considera un #[b recurso turístico] con potencial de desarrollo. En estos casos, es necesario implementar estrategias de mejora y promoción que permitan su posicionamiento en niveles regionales, nacionales o internacionales. 
 
 
 </template>

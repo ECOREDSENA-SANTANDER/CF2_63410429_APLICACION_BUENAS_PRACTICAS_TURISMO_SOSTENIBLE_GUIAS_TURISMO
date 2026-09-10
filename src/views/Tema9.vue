@@ -103,7 +103,7 @@
 
     .titb.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
-      h3.mb-0.text-white Antes de la actividad 
+      h4.mb-0.text-white Antes de la actividad 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.col-md-6.pe-lg-0.pe-md-0.mb-lg-0.mb-md-0.mb-4
@@ -119,7 +119,7 @@
 
     .titb.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
-      h3.mb-0.text-white Durante la actividad 
+      h4.mb-0.text-white Durante la actividad 
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-md-6.pe-lg-0.pe-md-0.mb-lg-0.mb-md-0.mb-4
@@ -135,7 +135,7 @@
 
     .titb.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
-      h3.mb-0.text-white Después de la actividad 
+      h4.mb-0.text-white Después de la actividad 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -144,6 +144,9 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema9/3.png')})`}"
           )
           .bloque-texto-g__texto.p-lg-5.p-4.p-md-4.my-lg-5
+            p.mb-0 #[b Procesos]
+            br 
+            br
             p.mb-0 Monitoreo ambiental, mantenimiento del escenario, evaluación del servicio, mejora continua, toma de decisiones. 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -154,9 +157,9 @@
         .bg1.p-4
           img(src='@/assets/curso/tema9/4.png', alt='')
 
-    .titb.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
-      h3.mb-0.text-white Orientación para el uso de las fichas en el proceso de aprendizaje: 
+    .tit.mb-5(data-aos="fade-left")
+      img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
+      h3.mb-0 Orientación para el uso de las fichas en el proceso de aprendizaje: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2.d-none.d-lg-block
@@ -166,9 +169,9 @@
         .bg6.p-4
           p.mb-0 En el contexto de la formación, su uso permite fortalecer competencias relacionadas con la observación, análisis crítico y toma de decisiones, ya que el aprendiz podrá identificar situaciones reales o potenciales que afectan la calidad del servicio, la seguridad de los visitantes y la conservación del entorno natural. 
 
-    .tit.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
-      h3.mb-0 Ficha de seguimiento y mejora
+    .titb.mb-5(data-aos="fade-left")
+      img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
+      h4.mb-0.text-white Ficha de seguimiento y mejora
 
     p.mb-4 Esta ficha tiene como finalidad evaluar de manera periódica el estado de diferentes componentes de la actividad turística, permitiendo identificar fortalezas, aspectos por mejorar y establecer compromisos concretos de acción. A través de su diligenciamiento, el aprendiz desarrolla la capacidad de analizar variables clave como la capacidad de carga, el estado de los recursos, las prácticas de sostenibilidad y la calidad del servicio, promoviendo una mejora continua en la operación turística. 
 
@@ -213,6 +216,10 @@
                 td.tg Para diligenciar
                 td.tg Para diligenciar
               tr
+                td Calidad del servicio 
+                td.tg Para diligenciar
+                td.tg Para diligenciar
+              tr
                 td Seguridad
                 td.tg Para diligenciar
                 td.tg Para diligenciar
@@ -227,7 +234,7 @@
 
     .titb.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
-      h3.mb-0.text-white Ficha de identificación de riesgos 
+      h4.mb-0.text-white Ficha de identificación de riesgos 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.mb-lg-0.mb-4
@@ -257,13 +264,13 @@
                 td.tg Para diligenciar
                 td.tg Para diligenciar
               tr
-                td
-                td
-                td
+                td.tg Para diligenciar
+                td.tg Para diligenciar
+                td.tg Para diligenciar
               tr
-                td
-                td
-                td
+                td.tg Para diligenciar
+                td.tg Para diligenciar
+                td.tg Para diligenciar
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6

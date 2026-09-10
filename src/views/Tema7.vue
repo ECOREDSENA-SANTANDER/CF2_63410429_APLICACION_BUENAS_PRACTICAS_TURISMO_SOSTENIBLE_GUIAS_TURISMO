@@ -43,7 +43,7 @@
       .col-lg-12
         .titulo-sexto
           h5 Tabla 8. 
-          | Rol del guía en el servicio de restaurante
+          | Principios de la Carta de Turismo Cultural 
         .tabla-a.t4.tab1.mb-2
           table
             thead
@@ -51,25 +51,24 @@
                 th Principio
                 th Descripción
             tbody
-              tr.bgr
+              tr
                 td Principio 1
                 td El turismo nacional e internacional es un medio fundamental para el intercambio cultural. Su gestión debe ofrecer oportunidades responsables a las comunidades anfitrionas y permitir a los visitantes comprender y experimentar su cultura y patrimonio.
-              tr
+              tr.bgr
                 td Principio 2
                 td La relación entre turismo y patrimonio es dinámica y puede generar tensiones. Por ello, debe gestionarse de manera sostenible, pensando en las generaciones presentes y futuras.
-              tr.bgr
+              tr
                 td Principio 3
                 td La planificación del turismo y la conservación del patrimonio debe garantizar una experiencia significativa, satisfactoria y enriquecedora para el visitante.
-              tr
+              tr.bgr
                 td Principio 4
                 td Las comunidades anfitrionas y los pueblos indígenas deben participar activamente en la planificación del turismo y la conservación del patrimonio.
-              tr.bgr
+              tr
                 td Principio 5
                 td Las actividades turísticas y de conservación deben generar beneficios reales para las comunidades locales.
-              tr
+              tr.bgr
                 td Principio 6
                 td La promoción turística debe proteger, respetar y resaltar las características del patrimonio natural y cultural.
-        figcaption Nota: adaptación de González Molina et al., (2023). 
 
     .tit.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
@@ -79,7 +78,7 @@
 
     .titb.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
-      h3.mb-0.text-white Funciones clave del guía
+      h4.mb-0.text-white Funciones clave del guía
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5.d-none.d-lg-block

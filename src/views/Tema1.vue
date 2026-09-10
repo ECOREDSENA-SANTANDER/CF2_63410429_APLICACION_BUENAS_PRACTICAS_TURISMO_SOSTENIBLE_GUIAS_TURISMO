@@ -20,7 +20,7 @@
       img(:src="require('@/assets/curso/tema1/movil.svg')" alt='Imagen decorativa')
       h3.mb-0 Indicadores de sostenibilidad en turismo (OMT)
 
-    p.mb-4 A continuación, se presentan los principales indicadores de sostenibilidad en turismo propuestos por la OMT, los cuales permiten evaluar de manera integral cómo la actividad turística impacta los recursos naturales, el desarrollo económico y el entorno social, . Estos indicadores facilitan la toma de decisiones orientadas a un turismo responsable, equilibrado y sostenible en los territorios. 
+    p.mb-4 A continuación, se presentan los principales indicadores de sostenibilidad en turismo propuestos por la OMT, los cuales permiten evaluar de manera integral cómo la actividad turística impacta los recursos naturales, el desarrollo económico y el entorno social. Estos indicadores facilitan la toma de decisiones orientadas a un turismo responsable, equilibrado y sostenible en los territorios. 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -56,7 +56,7 @@
       .col-lg-5
         .titb.titul1.mb-0(data-aos="fade-left")
           img(:src="require('@/assets/curso/tema9/sub.svg')" alt='Imagen decorativa')
-          h3.mb-0.text-white ¿Por qué son importantes? 
+          h4.mb-0.text-white ¿Por qué son importantes? 
         .bg3.p-4
           p.mb-4.my-4 Los indicadores permiten: 
           ul.lista-ul.mb-0

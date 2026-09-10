@@ -14,7 +14,7 @@
       .col-lg-11.col-md-10
         p.mb-0 La formación en guianza turística exige el desarrollo de conocimientos y habilidades orientadas a la prestación de servicios con calidad, responsabilidad y compromiso con el entorno. La sostenibilidad por su parte comprende un enfoque integral que articula la protección ambiental, la gestión económica, la valoración de la cultura local y el respeto por las comunidades y los territorios.
     
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-7
         p.mb-3 En este proceso formativo se abordan contenidos relacionados con los indicadores de sostenibilidad en turismo propuestos por la Organización Mundial del Turismo (OMT), la gestión empresarial, la cultura de calidad en el servicio y la preparación del guía según las tipologías de producto turístico ofertadas en el destino; asimismo, se desarrollan aspectos clave para la organización del trabajo en distintos escenarios de operación turística, tales como terminales de transporte, establecimientos de alojamiento, restaurantes y embarcaciones, junto con herramientas para la evaluación de la satisfacción de usuarios y comunidades.
         .row.justify-content-center.align-items-center.mb-0
@@ -26,12 +26,6 @@
         .bg1.p-4
           img(src='@/assets/curso/intro/2.png', alt='')
       
-    .row.justify-content-center.align-items-center           
-      .col-lg-12
-        figure
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/XHWBVpvtUCg?si=_osxk9LqnHtBczxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Operación del servicio turístico: recepción, traslado y alojamiento
 
 </template>
 
