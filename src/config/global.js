@@ -102,7 +102,7 @@ export default {
           },
           {
             numero: '4.3',
-            titulo: 'Llegada y salida de embarcaciones (marítimas, fluviales).',
+            titulo: 'Llegada y salida de embarcaciones (marítimas, fluviales)',
             hash: 't_4_3',
           },
         ],
@@ -191,7 +191,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/63410429_CF02_CFA.zip',
       },
       {
         icono: 'fas fa-download',
@@ -291,14 +291,12 @@ export default {
     {
       referencia:
         'Fundación para la Conservación y el Desarrollo Sostenible (FCDS). (2021). Manual de operación turística para el avistamiento de aves. Proyecto Guaviare Turismo Comunitario y Desarrollo Sostenible.',
-      link:
-        'https://fcds.org.co/wp-content/uploads/2021/02/manual-operacion-turismo.pdf',
+      link: '',
     },
     {
       referencia:
         'González Molina, J. F., Atehortúa López, J. E., Garcés Gil, D. F., Miranda Gómez, J. F., Murcia Santos, V., Molina Giraldo, E. (2023). Planificación y ejecución de actividades de guianza turística en el departamento de Caldas. Servicio Nacional de Aprendizaje (SENA).',
-      link:
-        'https://repositorio.sena.edu.co/bitstream/handle/11404/8529/Planificacion_actividades_guianza_turistica.pdf',
+      link: '',
     },
     {
       referencia:
@@ -328,8 +326,7 @@ export default {
     {
       referencia:
         'Paredes Leguizamón, G., Osorio Dussán, C. E., Rodríguez, S., Galvis, N., Víquez, A., Ladino, R., Niño, L. N., Jarro Fajardo, E. C., Sinning, A. (2015). Áreas protegidas en Planes de Desarrollo Municipales y Departamentales: Kit de planeación territorial. Departamento Nacional de Planeación (DNP). Parques Nacionales Naturales de Colombia.',
-      link:
-        'https://old.parquesnacionales.gov.co/portal/wp-content/uploads/2015/07/KPT_Lineamientos-Areas-Protegidas-en-PD.pdf',
+      link: '',
     },
   ],
   creditos: [
@@ -369,7 +366,7 @@ export default {
       autores: [
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseñador de contenidos',
+          cargo: 'Diseñadora de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -393,8 +390,8 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '',
-          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          nombre: 'Sandra Liliana Cristancho Cruz',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

@@ -255,7 +255,7 @@
                 td Establecer una relación significativa entre los contenidos del patrimonio y los intereses del visitante, garantizando la comprensión, el sentido y la utilidad de la información presentada.
               tr
                 td Labor del intérprete
-                td Construir mensajes que conecten las experiencias del visitante con el espacio visitado; para ello, puede emplear ejemplos, comparaciones y relatos que faciliten la comprensión y la apropiación del
+                td Construir mensajes que conecten las experiencias del visitante con el espacio visitado; para ello, puede emplear ejemplos, comparaciones y relatos que faciliten la comprensión y la apropiación del conocimiento.
 
 
     separador

@@ -24,7 +24,7 @@
           h5 Figura 3.
           | Ficha de fotografía
         .bg9.p-5.mb-2 
-          img.img-t.img-a.mt-lg-4.mb-lg-4(src='@/assets/curso/tema9/2.svg', alt='Se presenta la clasificación de los servicios ecosistémicos en cuatro categorías principales: soporte, abastecimiento, regulación y culturales, destacando su función en el equilibrio ambiental, el bienestar humano y el aprovechamiento sostenible de los recursos naturales.')
+          img.img-t.img-a.mt-lg-4.mb-lg-4(src='@/assets/curso/tema9/2.svg', alt='Formato de ficha para el registro fotográfico de un atractivo turístico, compuesto por dos espacios destinados a fotografías (una superior y otra inferior) y un apartado final para consignar la fuente de la información.')
         figcaption Nota: Ministerio de Comercio, Industria y Turismo (2020). 
       .col-lg-8
         .titulo-sexto

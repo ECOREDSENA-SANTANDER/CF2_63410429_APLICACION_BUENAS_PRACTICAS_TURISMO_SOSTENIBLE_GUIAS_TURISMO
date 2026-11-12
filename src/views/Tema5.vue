@@ -18,9 +18,9 @@
 
     p.mb-lg-5.mb-4 Más allá de recolectar opiniones, estas encuestas facilitan la toma de decisiones, la identificación de oportunidades de mejora y el fortalecimiento de la experiencia turística. 
 
-    .titb.mb-4(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema9/sub.svg')")
-      h4.mb-0.text-white Fases para la construcción y aplicación de una encuesta de satisfacción 
+    .tit.mb-5(data-aos="fade-left")
+      img(:src="require('@/assets/curso/tema1/movil.svg')")
+      h3.mb-0 Fases para la construcción y aplicación de una encuesta de satisfacción 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
